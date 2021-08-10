@@ -29,7 +29,7 @@
 </p>
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
-  A total of 199 unique books were mentioned on at least one "Best of" list. Among the unique books, 161 were mentioned only once and 38 received multiple recommendations.<br /><br /></p>
+  A total of 199 unique books were mentioned on at least one "Best of" list. Among the unique books, 161 were mentioned only once and 38 received multiple recommendations.</p>
 
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   The Honorable Mention Shelf
@@ -37,7 +37,7 @@
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
   Of the 38 multiple recommendations, 28 books were mentioned on two lists. These books comprise the <b>Honorable Mention</b> list.
-<br /><br /></p>
+</p>
 
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   The Must-Read Shelf
@@ -105,7 +105,6 @@
 
 <br />
 
-
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   The Top Shelf
 </h3>
@@ -166,7 +165,6 @@
   </li>
 </ul>
 
-
 <br />
 
 <!--BEGIN SECOND BOOKSHELF-->
@@ -214,7 +212,9 @@
   </a>
 </div>
 
-<!--END SECOND BOOKSHELF--><br />
+<!--END SECOND BOOKSHELF-->
+
+<br />
 
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   Personal Recommendations
@@ -258,8 +258,6 @@
   You can access more than 100 Leadership and Strategy books I have read at 
   <a href="https://www.pinterest.com/webapprentices/pins/" target="_blank"><b>Pinterest</b></a>.
 </p>
-
-<br />
 
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   Suggested Success Strategy
