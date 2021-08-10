@@ -214,10 +214,7 @@
   </a>
 </div>
 
-<!--END SECOND BOOKSHELF-->
-
-<br />
-<br />
+<!--END SECOND BOOKSHELF--><br />
 
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   Personal Recommendations
@@ -230,23 +227,19 @@
 <ul style="font-family: arial; font-size: medium; text-align: left;">
   <li>
     <a href="https://www.goodreads.com/book/show/51718082-no-rules-rules" target="_blank">
-      <b>No Rules Rules</b> (4.34 rating out of 5.00)
-    </a>
+      <b>No Rules Rules</b></a>&nbsp;(4.34 rating out of 5.00)
   </li>
   <li>
     <a href="https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think" target="_blank">
-      <b>The Future Is Faster Than You Think</b> (4.23)
-    </a>
+      <b>The Future Is Faster Than You Think</b></a>&nbsp;(4.23)
   </li>
   <li>
     <a href="https://www.goodreads.com/book/show/50772888-no-filter" target="_blank">
-      <b>No Filter</b> (4.13)
-    </a>
+      <b>No Filter</b></a>&nbsp;(4.13)
   </li>
   <li>
     <a href="https://www.goodreads.com/book/show/42774083-leadership-is-language" target="_blank">
-      <b>Leadership Is Language</b> (4.10)
-    </a>
+      <b>Leadership Is Language</b></a>&nbsp;(4.10)
   </li>
 </ul>
 
