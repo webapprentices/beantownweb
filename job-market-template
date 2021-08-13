@@ -8,20 +8,20 @@
 
 <br />
 
-<h2 style="text-align: left;">
-  <span style="font-family: arial; font-size: x-large;">The Headlines
-  </span>
+<h2 style="font-family: arial; font-size: large;">
+  The Headlines
 </h2>
 
-<p>
-  <span style="font-family: arial; font-size: large;">Headline #1
-  </span>
-</p>
+<h3 style="font-family: arial; font-size: medium; font-weight: normal;">
+  Headline #1
+</h3>
 
-<p>
-  <span style="font-family: arial; font-size: large;">Headline #2
-  </span>
-</p>
+<h3 style="font-family: arial; font-size: medium; font-weight: normal;">
+  Headline #2
+</h3>
+
+<!-- EDIT BELOW -->
+
 
 <h2 style="text-align: left;">
   <span style="font-family: arial; font-size: x-large;">The Job Market in Boston
