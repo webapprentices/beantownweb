@@ -13,11 +13,13 @@
 </h2>
 
 <h3 style="font-family: arial; font-size: medium; font-weight: normal;">
-  Headline #1
+  <a href="#" target="_blank">Headline #1</a>
 </h3>
 
+<br />
+
 <h3 style="font-family: arial; font-size: medium; font-weight: normal;">
-  Headline #2
+  <a href="#" target="_blank">Headline #1</a>
 </h3>
 
 <!-- EDIT BELOW -->
