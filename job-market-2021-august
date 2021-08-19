@@ -63,27 +63,19 @@
 
 <ol style="font-family: arial; font-size: medium;">
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>Python</b>
-    </a>
-    &nbsp;| 5,411 (job postings) <span style="color: green;"><b>up 09%</b></span> (from June)
+    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>Python</b></a>&nbsp;| 5,411 (job postings) <span style="color: green;"><b>UP 9%</b></span> (from June)
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&l=Boston,+MA&radius=25&sort=date" style="color: #d52a33;" target="_blank"><b>agile</b>
-    </a>
-    &nbsp;| 5,169 <span style="color: green;"><b>up 09%</b></span>
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>agile</b></a>&nbsp;| 5,169 <span style="color: green;"><b>UP 9%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="#" style="color: #d52a33;" target="_blank"><b>TECHNOLOGY #3</b>
-    </a>
-    &nbsp;| 5,411 <span style="color: green;"><b>up XX%</b></span>
+    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>SQL</b></a>&nbsp;| 4,164 <span style="color: green;"><b>UP 11%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="#" style="color: #d52a33;" target="_blank"><b>TECHNOLOGY #4</b>
-    </a>
-    &nbsp;| 5,411 <span style="color: green;"><b>up XX%</b></span>
+    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>Java</b></a>&nbsp;| 3,706 <span style="color: green;"><b>UP 13%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
