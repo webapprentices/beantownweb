@@ -26,32 +26,41 @@
 
 <br />
 
-<!--EDIT BELOW-->
-
-
-
-
-
-<h2 style="text-align: left;">
-  <span style="font-family: arial; font-size: x-large;">The Job Market in Boston
-  </span>
+<h2 style="font-family: arial; font-size: large;">
+  The Job Market in Boston
 </h2>
 
-<p>
-  <span style="font-family: arial; font-size: large;">Paragraph #1
-  </span>
+<p style="font-family: arial; font-size: medium;">
+  Paragraph #1
 </p>
 
 <p style="text-align: center;">
-  <a href="https://1.bp.blogspot.com/-Hnxc_UC2Ids/YIlkar4YyiI/AAAAAAAABSg/G4l_Ztl254w34IPOnfVSu1xG7zb0C0mkQCLcBGAsYHQ/s514/graph-placeholder.jpg" style="margin-left: 1em; margin-right: 1em;">
+  <a href="#" style="margin-left: 1em; margin-right: 1em;">
     <img border="0" data-original-height="256" data-original-width="514" height="159" src="https://1.bp.blogspot.com/-Hnxc_UC2Ids/YIlkar4YyiI/AAAAAAAABSg/G4l_Ztl254w34IPOnfVSu1xG7zb0C0mkQCLcBGAsYHQ/w320-h159/graph-placeholder.jpg" width="320" />
   </a>
 </p>
 
-<p>
-  <span style="font-family: arial; font-size: large;">Paragraph #2
-  </span>
+<p style="font-family: arial; font-size: medium;">
+  Paragraph #2
 </p>
+
+
+
+
+
+
+
+
+
+
+<!--EDIT BELOW-->
+
+
+
+V V V V DRAFT V V V V
+
+
+
 
 <h3 style="text-align: left;">
   <span style="font-family: arial; font-size: x-large;">The Top 20 Web Technologies in Boston
