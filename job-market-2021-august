@@ -64,7 +64,7 @@
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>agile</b></a>&nbsp;| 5,169 <span style="color: green;"><b>UP 9%</b></span>
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 5,169 <span style="color: green;"><b>UP 9%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
@@ -96,11 +96,14 @@
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>scrum</b></a>&nbsp;| 1,709 <span style="color: green;"><b>UP 2%</b></span>
+    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 1,709 <span style="color: green;"><b>UP 2%</b></span>
   </li>
 </ol>
 
-
+<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
+  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" and "scrum" are not technologies, they are methodologies used in technology development. These two keywords appear in many web development job descriptions. Knowledge of and experience with these methodologies are common practice.
+  </span>
+</blockquote>
 
 <br />
 <br />
@@ -147,12 +150,7 @@ V V V V DRAFT V V V V
 
 
 
-<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
-  <p style="text-align: left;">
-    <span style="font-family: arial; font-size: large;">*** Note:
-    </span>
-  </p>
-</blockquote>
+
 
 <p></p>
 
