@@ -12,25 +12,21 @@
   The Headlines
 </h2>
 
-<h3 style="font-family: arial; font-size: medium; font-weight: normal;">
+<p style="font-family: arial; font-size: medium; font-weight: normal;">
   <a href="https://www.pbs.org/newshour/economy/u-s-hiring-surges-in-july-unemployment-rate-drops-to-5-4" target="_blank">U.S. Hiring Surges in July, Unemployment Rate Drops to 5.4%
   </a>
-</h3>
+</p>
 
-<br />
-
-<h3 style="font-family: arial; font-size: medium; font-weight: normal;">
+<p style="font-family: arial; font-size: medium; font-weight: normal;">
   <a href="https://www.cnbc.com/2021/08/13/consumer-sentiment-measure-falls-to-pandemic-era-low-sees-one-of-largest-drops-on-record.html" target="_blank">Consumer Sentiment Measures One of the Largest Drops on Record
   </a>
-</h3>
-
-<br />
+</p>
 
 <h2 style="font-family: arial; font-size: large;">
   The Job Market in Boston
 </h2>
 
-<p style="font-family: arial; font-size: medium;">Despite uncertainty over the relentless pandemic, the U.S. economy continues to create jobs. As of mid-August, job postings on <a href="https://www.hiringlab.org/2021/08/18/job-postings-through-august-13/" target="_blank"><b>Indeed.com</b></a> were 36.6% above February 1, 2020, the pre-pandemic baseline.
+<p style="font-family: arial; font-size: medium;">Despite uncertainty over the relentless Delta variant, the U.S. economy continues to create jobs. As of mid-August, job postings on <a href="https://www.hiringlab.org/2021/08/18/job-postings-through-august-13/" target="_blank"><b>Indeed.com</b></a> were 36.6% above February 1, 2020, the pre-pandemic baseline.
 </p>
 
 <br />
@@ -44,7 +40,7 @@
 <br />
 
 <p style="font-family: arial; font-size: medium;">
-  The list of <b>Top 20 Web Technologies in Boston</b> has been updated for August. This list is based on keyword searches in job postings at <b><a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank">Indeed.com</a></b>. The most in-demand keywords are listed more frequently than less in-demand keywords. This list reflects the change in the last 60 days.
+  The list of <b>Top 20 Web Technologies in Boston</b> has been updated for August. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords. This list reflects the change in the last 60 days.
 </p>
 
 <h3 style="font-family: arial; font-size: large;">
@@ -61,43 +57,43 @@
 
 <ol style="font-family: arial; font-size: medium;">
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>Python</b></a>&nbsp;| 5,411 (job postings) <span style="color: green;"><b>UP 9%</b></span> (from June)
+    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>Python</b></a>&nbsp;| 5,411 (job postings) <span style="color: green;"><b>UP 9%</b></span> (from June)
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 5,169 <span style="color: green;"><b>UP 9%</b></span>
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 5,169 <span style="color: green;"><b>UP 9%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>SQL</b></a>&nbsp;| 4,164 <span style="color: green;"><b>UP 11%</b></span>
+    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>SQL</b></a>&nbsp;| 4,164 <span style="color: green;"><b>UP 11%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>Java</b></a>&nbsp;| 3,706 <span style="color: green;"><b>UP 13%</b></span>
+    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>Java</b></a>&nbsp;| 3,706 <span style="color: green;"><b>UP 13%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>AWS</b></a>&nbsp;| 3,604 <span style="color: green;"><b>UP 11%</b></span>
+    <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>AWS</b></a>&nbsp;| 3,604 <span style="color: green;"><b>UP 11%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>SaaS</b></a>&nbsp;| 2,775 <span style="color: green;"><b>UP 4%</b></span>
+    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>SaaS</b></a>&nbsp;| 2,775 <span style="color: green;"><b>UP 4%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>JavaScript</b></a>&nbsp;| 2,617 <span style="color: green;"><b>UP 11%</b></span>
+    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>JavaScript</b></a>&nbsp;| 2,617 <span style="color: green;"><b>UP 11%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>C#</b></a>&nbsp;| 2,359 <span style="color: green;"><b>UP 63%</b></span>
+    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>C#</b></a>&nbsp;| 2,359 <span style="color: green;"><b>UP 63%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>Azure</b></a>&nbsp;| 2,059 <span style="color: green;"><b>UP 5%</b></span>
+    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>Azure</b></a>&nbsp;| 2,059 <span style="color: green;"><b>UP 5%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" style="color: #d52a33;" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 1,709 <span style="color: green;"><b>UP 2%</b></span>
+    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date"  target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 1,709 <span style="color: green;"><b>UP 2%</b></span>
   </li>
 </ol>
 
@@ -136,7 +132,7 @@
 <hr />
 
 <p style="font-family: arial; font-size: medium;">
-  View all recent <b><a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank">Boston Web Tech Job Market</a></b> blog postings.
+  View all recent <a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank"><b>Boston Web Tech Job Market</b></a> blog postings.
 </p>
   
 <br />
