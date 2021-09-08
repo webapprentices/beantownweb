@@ -6,11 +6,26 @@
   </a>
 </div>
 
-<br />
+<p style="font-family: arial; font-size: medium; text-align: center;">
+  <i>
+    "What we really need is not more authors,<br />
+    or better publishers.<br />
+    What we most need is a vastly better system<br />
+    to identify the books we will love."
+  </i>
+  
+  <br>
+
+  <a href="https://techcrunch.com/2016/01/16/book-it-baby/" style="color: #b4445c;" target="_blank">
+    <span style="font-size: medium;"><b>TechCrunch</b></span>
+  </a>
+</p>
+
 
 
 <!-- EDIT BELOW -->
 
+<!--
 
 <div style="background-color: #fefdfa; color: #333333; font-family: arial, tahoma, helvetica, freesans, sans-serif; font-size: 13px; text-align: center;">
 <span style="font-family: arial; font-size: large;">
@@ -46,6 +61,8 @@
 <br />
 </span>
 </div>
+
+-->
 
 <span face="" style="background-color: white; color: #111111;"><span style="font-family: arial; font-size: large;">Beantown Web has developed such a system.&nbsp; For the ninth year running Beantown Web has conducted a quasi-scientific meta-search to identify the best business books published during the calendar year. These books are most likely to add value to your career.
 </span>
