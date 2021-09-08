@@ -29,6 +29,21 @@
   This year's search began by identifying 11 "Best of" lists. This resource list is available upon request. Presented here are the results.
 </p>
 
+<p style="font-family: arial; font-size: medium; text-align: left;">
+  A total of 110 books were mentioned on at least one "Best of" list — 77 of these books were mentioned only once.
+</p>
+
+<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
+  The Honorable Mention Shelf
+</h3>
+  
+<p style="font-family: arial; font-size: medium; text-align: left;">
+  An additional 15 books were mentioned on two lists and these books comprise the <b>Honorable Mention</b> list.
+</p>
+
+<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
+  The Must-Read Shelf
+</h3>
 
 
 <!--EDIT BELOW-->
@@ -37,35 +52,13 @@
 <br />
 <br />
 <br />
-
-
-<div style="background-color: white;">
-<span style="color: #111111; font-family: arial; font-size: large;">A total of 110 books were mentioned on at least one "Best of" list -- 77 of these books were mentioned only once.
-</span>
-
+<br />
+<br />
+<br />
 <br />
 <br />
 
-<h3 style="margin: 10px 0px 0px; padding: 0px;">
-<span style="font-family: arial; font-size: x-large;">The Honorable Mention Shelf</span>
-</h3>
-
-<br />
-
-<span style="color: #111111; font-family: arial; font-size: large;">
-An additional 15 books were mentioned on two lists and these books comprise the <b>Honorable Mention</b> list.
-</span>
-
-<br />
-<br />
-
-</div>
-
-<h3 style="background-color: white; margin: 10px 0px 0px; padding: 0px;">
-<span style="font-family: arial; font-size: x-large;">The Must-Read Shelf
-</span>
-</h3>
-
+  
 <div style="background-color: white; color: #111111;">
 <br />
 <span style="font-family: arial; font-size: large;">
@@ -301,8 +294,12 @@ Regardless of your professional discipline, business is the engine that drives e
 <hr />
 <hr />
 <hr />
-
 <br />
+
+
+<!--EDIT BELOW-->
+
+<!--
 
 <div class="separator" style="clear: both; text-align: center;">
   <a href="https://1.bp.blogspot.com/-QhC7IofwVI4/YCh1g9LFHyI/AAAAAAAABMw/GBIYjpEpLQMYDMm6I-8parpVV5cInjVdQCLcBGAsYHQ/s934/books_2020.jpg" style="margin-left: 1em; margin-right: 1em;">
@@ -310,10 +307,7 @@ Regardless of your professional discipline, business is the engine that drives e
   </a>
 </div>
 
-
-<!--EDIT BELOW-->
-
-<!--<p style="font-family: arial; font-size: small; text-align: center;">
+<p style="font-family: arial; font-size: small; text-align: center;">
   <i>
     "Reading taught Elon Musk to build a rocket,<br />
     and showed Tony Robbins how to build a better life.<br />
@@ -329,7 +323,7 @@ Regardless of your professional discipline, business is the engine that drives e
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
   While I won't promise results on the level of Elon Musk or Tony Robbins, the books that follow are most likely to add value to your career. So say the business experts. So say the readers.
-</p>-->
+</p>
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
   For the 13th year in a row Beantown Web has conducted a quasi-scientific meta-search to identify the best business books published during the calendar year. This year's search began by identifying 15 "Best of" lists. This resource list is available upon request. The final results are presented here.
@@ -349,6 +343,9 @@ Regardless of your professional discipline, business is the engine that drives e
 <h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   The Must-Read Shelf
 </h3>
+
+-->
+
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
   Of the 10 remaining book recommendations, four were mentioned on three lists. These books comprise the <b>Must-Read</b>&nbsp;list:</p>
