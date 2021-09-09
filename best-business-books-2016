@@ -45,32 +45,21 @@
   The Must-Read Shelf
 </h3>
 
+<p style="font-family: arial; font-size: medium; text-align: left;">
+  Thirteen books were mentioned on three lists and have been placed on the <b>Must-Read</b> shelf:
+</p>
 
-<!--EDIT BELOW-->
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-  
-<div style="background-color: white; color: #111111;">
-<br />
-<span style="font-family: arial; font-size: large;">
-Thirteen books were mentioned on three lists and have been placed on the <b>Must-Read</b> shelf:
-</span>
-</div>
-
-<ul style="background-color: white; color: #111111;">
-
-<li><a href="https://www.harpercollins.com/9780062458193/chaos-monkeys" style="color: #b4445c;" target="_blank"><span style="font-family: arial; font-size: large;">Chaos Monkeys</span></a></li>
-
-<li><a href="https://www.hachettebookgroup.com/titles/dan-lyons/disrupted/9780316306072/" style="color: #b4445c;" target="_blank"><span style="font-family: arial; font-size: large;">Disrupted</span></a></li>
+<ul style="font-family: arial; font-size: medium; text-align: left;">
+  <li>
+    <a href="https://www.goodreads.com/book/show/28259132-chaos-monkeys" target="_blank">
+      <b>Chaos Monkeys</b>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.goodreads.com/book/show/26030703-disrupted" target="_blank">
+      <b>Disrupted</b>
+    </a>
+  </li>
 
 <li><a href="http://www.penguinrandomhouse.com/books/247738/makers-and-takers-by-rana-foroohar/9780553447231/" style="color: #b4445c;" target="_blank"><span style="font-family: arial; font-size: large;">Makers and Takers</span></a></li>
 
@@ -92,8 +81,27 @@ Thirteen books were mentioned on three lists and have been placed on the <b>Must
 
 <li><a href="http://davidburkus.com/books/under-new-management/" style="color: #b4445c;" target="_blank"><span style="font-family: arial; font-size: large;">Under New Management</span></a></li>
 
-<li><span style="color: #b4445c; font-family: arial; font-size: large;"><a href="http://www.penguinrandomhouse.com/books/533949/wonderland-by-steven-johnson/9780399184482/" style="color: #b4445c;" target="_blank">Wonderland</a><br /><br /></span></li></ul><div style="background-color: white;"><h3 style="margin: 10px 0px 0px; padding: 0px;">
-</h3>
+<li><span style="color: #b4445c; font-family: arial; font-size: large;"><a href="http://www.penguinrandomhouse.com/books/533949/wonderland-by-steven-johnson/9780399184482/" style="color: #b4445c;" target="_blank">Wonderland</a><br /><br /></span>
+  </li>
+</ul>
+
+
+<!--EDIT BELOW-->
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div style="background-color: white;">
+  <h3 style="margin: 10px 0px 0px; padding: 0px;">
+  </h3>
 
 <h3 style="text-align: left;">
 <span style="font-family: arial; font-size: x-large;">The Top Shelf</span></h3>
@@ -344,11 +352,10 @@ Regardless of your professional discipline, business is the engine that drives e
   The Must-Read Shelf
 </h3>
 
--->
-
-
 <p style="font-family: arial; font-size: medium; text-align: left;">
   Of the 10 remaining book recommendations, four were mentioned on three lists. These books comprise the <b>Must-Read</b>&nbsp;list:</p>
+
+-->
 
 <ul style="font-family: arial; font-size: medium; text-align: left;">
   <li>
