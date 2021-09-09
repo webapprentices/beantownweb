@@ -227,9 +227,10 @@
 <img alt="Grit" border="0" data-original-height="475" data-original-width="313" height="200" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483546380l/25814485._SX318_.jpg" style="background: rgb(255, 255, 255); border-radius: 5px; border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px; padding: 8px; position: relative;" width="132" />
 </a>
 
-<br /><br />
-
 <!--End second row of two-image template-->
+
+<br />
+<br />
 
 <!--Begin third row of one-image template-->
 
@@ -243,8 +244,19 @@
 
 
 <h3 style="background-color: white; margin: 10px 0px 0px; padding: 0px;">
-<span>
-<br /></span></h3><h3 style="background-color: white; color: #333333; font-family: arial; font-size: 16.8px; margin: 10px 0px 0px; padding: 0px; position: relative;"><span style="color: black;"><span style="font-size: xx-large;">Personal Recommendations</span></span></h3>
+  <span>
+    <br />
+  </span>
+</h3>
+
+<h3 style="background-color: white; color: #333333; font-family: arial; font-size: 16.8px; margin: 10px 0px 0px; padding: 0px; position: relative;">
+  <span style="color: black;">
+    <span style="font-size: xx-large;">Personal Recommendations
+    </span>
+  </span>
+</h3>
+
+
 
 <div style="background-color: white;">
   <div style="color: #111111; font-family: arial; font-size: 16px;">
@@ -260,23 +272,62 @@
   
   <div>
     <ul style="font-family: arial; text-align: left;">
-      <ul>
         <li>
           <a href="https://www.goodreads.com/book/show/27220736-shoe-dog" target="_blank">
             <b>Shoe Dog</b>
           </a> (4.49 out of 5.00)
-      </li>
+        </li>
+        <li>
+          <span style="color: #333333; font-size: large;">
+            <a href="https://www.goodreads.com/book/show/26156469-never-split-the-difference" target="_blank">
+              <b>Never Split the Difference</b>
+            </a> (4.40)</span>
+        </li>
+        <li>
+          <span style="color: #333333; font-size: large;">
+            <a href="https://www.goodreads.com/book/show/29358555-the-man-who-knew" target="_blank">
+              <b>The Man Who Knew</b>
+            </a> (4.33)
+          </span>
+        </li>
+        <li>
+          <span style="color: #333333; font-size: large;">
+            <a href="https://www.goodreads.com/book/show/25814544-sprint" target="_blank">
+              <b>Sprint</b>
+            </a> (4.23)
+          </span>
+        </li>
+        <li>
+          <span style="color: #333333; font-size: large;">
+            <a href="https://www.goodreads.com/book/show/25744928-deep-work" target="_blank">
+              <b>Deep Work</b>
+            </a> (4.20)
+          </span>
+        </li>
+      </ul>
 
-
-<li><span style="color: #333333; font-size: large;"><a href="https://www.goodreads.com/book/show/26156469-never-split-the-difference" target="_blank"><b>Never Split the Difference</b></a> (4.40)</span></li><li><span style="color: #333333; font-size: large;"><a href="https://www.goodreads.com/book/show/29358555-the-man-who-knew" target="_blank"><b>The Man Who Knew</b></a> (4.33)</span></li><li><span style="color: #333333; font-size: large;"><a href="https://www.goodreads.com/book/show/25814544-sprint" target="_blank"><b>Sprint</b></a> (4.23)</span></li><li><span style="color: #333333; font-size: large;"><a href="https://www.goodreads.com/book/show/25744928-deep-work" target="_blank"><b>Deep Work</b></a> (4.20)</span></li></ul><span style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">These five books are now on my&nbsp;</span><b style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">Short List</b><span style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">.</span>
+      <span style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">
+        These five books are now on my&nbsp;
+      </span>
+      <b style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">
+        Short List
+      </b>
+      <span style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">
+      </span>
       
       <br />
       <br />
+      
+      <span style="font-family: arial; font-size: large;">
+        <span style="color: #111111;">I have read two of five 
+          <b>Top Shelf</b>
+          books and two from the 13 books on the&nbsp;
+          <b>Must-Read</b>
+          shelf. As I work through this reading list, I will post my reviews at 
+        </span>
+    </span>
 
-<span style="font-family: arial; font-size: large;">
-<span style="color: #111111;">I have read two of five <b>Top Shelf</b> books and two from the 13 books on the&nbsp;<b>Must-Read</b> shelf. As I work through this reading list, I will post my reviews at 
-</span>
-                             
+        <ul>
 <li>                             
 <span style="font-family: arial; font-size: large;">
 <a href="https://www.goodreads.com/review/show/1483553878" target="_blank"><b>Deep Work</b></a>&nbsp;★★★★★
@@ -405,9 +456,7 @@ Regardless of your professional discipline, business is the engine that drives e
       <b>The Future is Faster Than You Think</b>
     </a>
   </li>
-</ul>
-
--->
+</ul>-->
 
 <br />
 
@@ -444,13 +493,9 @@ Regardless of your professional discipline, business is the engine that drives e
 
 <br />
 
-<!--
-
-<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
+<!--<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   The Top Shelf
-</h3>
-
--->
+</h3>-->
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
   Of the six remaining book recommendations, two were recognized on four lists:</p>
@@ -625,3 +670,4 @@ Regardless of your professional discipline, business is the engine that drives e
 <br />
 
 <!--THIS IS THE END-->
+</div>
