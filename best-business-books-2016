@@ -228,6 +228,46 @@
 
 </div>
 
+<br />
+
+<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
+  Personal Recommendations
+</h3>
+
+<p style="font-family: arial; font-size: medium; text-align: left;">
+  If 18 books are too many to chose from, then check out the following <b>Short List</b>.The four highest rated books on <a href="https://www.goodreads.com/" target="_b;ank"><b>Goodreads</b></a> (of the 18 listed here) are as follows:
+</p>
+
+
+
+<ul style="font-family: arial; font-size: medium; text-align: left;">
+  <li>
+    <a href="https://www.goodreads.com/book/show/27220736-shoe-dog" target="_blank">
+      <b>Shoe Dog</b>
+    </a> (4.46 out of 5.00)
+  </li>
+  
+  <li>
+    <a href="https://www.goodreads.com/book/show/26156469-never-split-the-difference" target="_blank">
+      <b>Never Split the Difference</b>
+    </a> (4.40)
+  </li>
+  
+  <li>
+    <a href="https://www.goodreads.com/book/show/29358555-the-man-who-knew" target="_blank">
+      <b>The Man Who Knew</b>
+    </a> (4.31)
+  </li>
+  
+  <li>
+    <a href="https://www.goodreads.com/book/show/25814544-sprint" target="_blank">
+      <b>Sprint</b>
+    </a> (4.20)
+  </li>
+</ul>
+
+
+
 
 
 
@@ -246,65 +286,6 @@
 <br />
 <br />
 
-
-
-
-<h3 style="background-color: white; color: #333333; font-family: arial; font-size: 16.8px; margin: 10px 0px 0px; padding: 0px; position: relative;">
-  <span style="color: black;">
-    <span style="font-size: xx-large;">Personal Recommendations
-    </span>
-  </span>
-</h3>
-
-
-
-<div style="background-color: white;">
-  <div style="color: #111111; font-family: arial; font-size: 16px;">
-    <br />
-  </div>
-  
-  <div style="color: #111111; font-family: arial; font-size: 16px;">
-    <span style="background-color: #fefdfa; color: #333333; font-size: large;">If 18 books are too many to chose from, then check out the following&nbsp;</span>
-    <b style="background-color: #fefdfa; color: #333333; font-size: large;">Short List</b>
-    <span style="background-color: #fefdfa; color: #333333; font-size: large;">. The five highest rated books on Goodreads (of the 18 listed here) are as follows:
-    </span>
-  </div>
-  
-  <div>
-    <ul style="font-family: arial; text-align: left;">
-        <li>
-          <a href="https://www.goodreads.com/book/show/27220736-shoe-dog" target="_blank">
-            <b>Shoe Dog</b>
-          </a> (4.49 out of 5.00)
-        </li>
-        <li>
-          <span style="color: #333333; font-size: large;">
-            <a href="https://www.goodreads.com/book/show/26156469-never-split-the-difference" target="_blank">
-              <b>Never Split the Difference</b>
-            </a> (4.40)</span>
-        </li>
-        <li>
-          <span style="color: #333333; font-size: large;">
-            <a href="https://www.goodreads.com/book/show/29358555-the-man-who-knew" target="_blank">
-              <b>The Man Who Knew</b>
-            </a> (4.33)
-          </span>
-        </li>
-        <li>
-          <span style="color: #333333; font-size: large;">
-            <a href="https://www.goodreads.com/book/show/25814544-sprint" target="_blank">
-              <b>Sprint</b>
-            </a> (4.23)
-          </span>
-        </li>
-        <li>
-          <span style="color: #333333; font-size: large;">
-            <a href="https://www.goodreads.com/book/show/25744928-deep-work" target="_blank">
-              <b>Deep Work</b>
-            </a> (4.20)
-          </span>
-        </li>
-      </ul>
 
       <span style="background-color: #fefdfa; color: #333333; font-family: arial; font-size: large;">
         These five books are now on my&nbsp;
@@ -326,8 +307,8 @@
           shelf. As I work through this reading list, I will post my reviews at 
         </span>
     </span>
-
-        <ul>
+    
+    <ul>
 <li>                             
 <span style="font-family: arial; font-size: large;">
 <a href="https://www.goodreads.com/review/show/1483553878" target="_blank"><b>Deep Work</b></a>&nbsp;★★★★★
@@ -456,5 +437,7 @@ Regardless of your professional discipline, business is the engine that drives e
 
 <br />
 
-<!--THIS IS THE END-->
 </div>
+
+
+<!--THIS IS THE END-->
