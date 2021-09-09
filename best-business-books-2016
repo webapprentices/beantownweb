@@ -118,6 +118,25 @@
   </li>
 </ul>
 
+<br />
+
+<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
+  The Top Shelf
+</h3>
+
+<p style="font-family: arial; font-size: medium; text-align: left;">
+  One book was mentioned on four lists:
+</p>
+
+<ul style="font-family: arial; font-size: medium; text-align: left;">
+  <li>
+    <a href="https://www.goodreads.com/book/show/26129523-superbosses" target="_blank">
+      <b>Superbosses</b>
+    </a>
+  </li>
+</ul>
+
+
 
 <!--EDIT BELOW-->
 
@@ -132,28 +151,6 @@
 <br />
 
 
-<div style="background-color: white;">
-  <h3 style="margin: 10px 0px 0px; padding: 0px;">
-  </h3>
-
-<h3 style="text-align: left;">
-<span style="font-family: arial; font-size: x-large;">The Top Shelf</span></h3>
-
-<span style="font-family: arial; font-size: large;"><span style="color: #111111;"><br />One book was mentioned on four lists:</span>
-</span>
-
-</div>
-
-<ul style="background-color: white;">
-
-<li>
-<span style="color: #b4445c; font-family: arial; font-size: large;">
-<a href="http://www.penguinrandomhouse.com/books/318051/superbosses-by-sydney-finkelstein/9781591847830/" style="color: #b4445c;" target="_blank">Superbosses
-</a>
-</span>
-</li>
-
-</ul>
 
 <div style="background-color: white; color: #111111;">
 <span style="font-family: arial; font-size: large;">
@@ -340,9 +337,7 @@ Regardless of your professional discipline, business is the engine that drives e
 
 <!--EDIT BELOW-->
 
-<!--
-
-<div class="separator" style="clear: both; text-align: center;">
+<!--<div class="separator" style="clear: both; text-align: center;">
   <a href="https://1.bp.blogspot.com/-QhC7IofwVI4/YCh1g9LFHyI/AAAAAAAABMw/GBIYjpEpLQMYDMm6I-8parpVV5cInjVdQCLcBGAsYHQ/s934/books_2020.jpg" style="margin-left: 1em; margin-right: 1em;">
     <img alt="books books books" border="0" data-original-height="623" data-original-width="934" height="266" src="https://1.bp.blogspot.com/-QhC7IofwVI4/YCh1g9LFHyI/AAAAAAAABMw/GBIYjpEpLQMYDMm6I-8parpVV5cInjVdQCLcBGAsYHQ/w400-h266/books_2020.jpg" width="400" />
   </a>
@@ -409,10 +404,7 @@ Regardless of your professional discipline, business is the engine that drives e
       <b>The Future is Faster Than You Think</b>
     </a>
   </li>
-</ul>
-
-
--->
+</ul>-->
 
 
 <br />
@@ -451,9 +443,9 @@ Regardless of your professional discipline, business is the engine that drives e
 
 <br />
 
-<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
+<!--<h3 style="font-family: arial; font-size: large; margin: 10px 0px 0px; padding: 0px; text-align: left;">
   The Top Shelf
-</h3>
+</h3>-->
 
 <p style="font-family: arial; font-size: medium; text-align: left;">
   Of the six remaining book recommendations, two were recognized on four lists:</p>
