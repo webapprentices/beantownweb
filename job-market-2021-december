@@ -92,21 +92,12 @@
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=docker&l=Boston,+MA&radius=25&sort=date" target="_blank"><b>Docker</b></a>&nbsp;<b>***</b> | 2,559 <span style="color: green;"><b>UP 61%</b></span>
+    <a href="https://www.indeed.com/jobs?q=docker&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Docker</b></a>&nbsp;| 2,559 <span style="color: green;"><b>UP 61%</b></span>
   </li>
 </ol>
 
-
-
-
-
-
-
-
-
-
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
-  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" and "scrum" are not technologies, they are methodologies used in technology development. These two keywords appear in many web development job descriptions. Knowledge of and experience with these methodologies are common practice.
+  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" is not a technology, it is a methodology used in technology development. Agile appears in many web development job descriptions. Knowledge of and experience with this methodology is common practice.
   </span>
 </blockquote>
 
@@ -119,11 +110,16 @@
 <p style="font-family: arial; font-size: medium;">
   To learn more about these and other in-demand technologies, visit <b><a href="https://webapprentices.org/about-web-apprentices/" target="_blank">Web Apprentices</a></b>, a technology skills development platform offered as a service to <a href="https://www.meetup.com/bostonphp/" target="_blank"><b>Boston PHP Meetup</b></a> members.</p>
 
-<p style="font-family: arial; font-size: medium;">
-  September's learning opportunity focuses on Web Development foundational training (including #1 Python and #7 JavaScript) and is called <b><a href="https://www.meetup.com/bostonphp/events/278877694/" target="_blank">Post Pandemic Challenge</a></b>. Join us.
+<p style="font-family: arial; font-size: medium;">In January we will announce new opportunities to learn these and other Web Development foundational skills in our virtual self-study groups. Join us.
 </p>
 
 <br />
+
+
+
+
+
+
 
 <div class="separator" style="clear: both; text-align: center;">
   <a href="https://www.meetup.com/bostonphp/events/278877694/" style="margin-left: 1em; margin-right: 1em;" target="_blank">
