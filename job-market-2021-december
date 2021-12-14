@@ -47,58 +47,63 @@
   The Top 20 Web Technologies in Boston
 </h3>
 
-
-
-
-
-<p style="font-family: arial; font-size: medium;">&gt;&gt;&gt; DRAFT &gt;&gt;&gt; Here are <b>The Top 10</b> of the 20 most in-demand web technologies [<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from mid-June, 2021] ranked by number of job postings on Indeed.
+<p style="font-family: arial; font-size: medium;">Here are <b>The Top 10</b> of the 20 most in-demand web technologies [<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from mid-October, 2021] ranked by number of job postings on Indeed.
 </p>
 
 <h3 style="font-family: arial; font-size: medium;">
-  August 2021
+  December 2021
 </h3>
 
 <ol style="font-family: arial; font-size: medium;">
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 5,411 (job postings) <span style="color: green;"><b>UP 9%</b></span> (from June)
+    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 8,668 (job postings) <span style="color: green;"><b>UP 34%</b></span> (from October)
+  </li>
+
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 8,475 <span style="color: green;"><b>UP 41%</b></span>
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 5,169 <span style="color: green;"><b>UP 9%</b></span>
+    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 6,932 <span style="color: green;"><b>UP 39%</b></span>
+  </li>
+  
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 6,520 <span style="color: green;"><b>UP 53%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 4,164 <span style="color: green;"><b>UP 11%</b></span>
+    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 5,778 <span style="color: green;"><b>UP 40%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 3,706 <span style="color: green;"><b>UP 13%</b></span>
+    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b></a>&nbsp;| 4,669 <span style="color: green;"><b>UP 48%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 3,604 <span style="color: green;"><b>UP 11%</b></span>
+    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 4,443 <span style="color: green;"><b>UP 80%</b></span>
+  </li>
+    
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b></a>&nbsp;| 3,498 <span style="color: green;"><b>UP 12%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b></a>&nbsp;| 2,775 <span style="color: green;"><b>UP 4%</b></span>
+    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 3,121 <span style="color: green;"><b>UP 18%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b></a>&nbsp;| 2,617 <span style="color: green;"><b>UP 11%</b></span>
-  </li>
-
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 2,359 <span style="color: green;"><b>UP 63%</b></span>
-  </li>
-
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 2,059 <span style="color: green;"><b>UP 5%</b></span>
-  </li>
-
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 1,709 <span style="color: green;"><b>UP 2%</b></span>
+    <a href="https://www.indeed.com/jobs?q=docker&l=Boston,+MA&radius=25&sort=date" target="_blank"><b>Docker</b></a>&nbsp;<b>***</b> | 2,559 <span style="color: green;"><b>UP 61%</b></span>
   </li>
 </ol>
+
+
+
+
+
+
+
+
+
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
   <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" and "scrum" are not technologies, they are methodologies used in technology development. These two keywords appear in many web development job descriptions. Knowledge of and experience with these methodologies are common practice.
