@@ -103,6 +103,10 @@
 
 <br />
 
+<h3 style="font-family: arial; font-size: large;">
+  Trend Lines for 2021
+</h3>
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/8143109">
   <script src="https://public.flourish.studio/resources/embed.js">
   </script>
@@ -115,7 +119,7 @@
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  To learn more about these and other in-demand technologies, visit <b><a href="https://webapprentices.org/about-web-apprentices/" target="_blank">Web Apprentices</a></b>, a technology skills development platform offered as a service to <a href="https://www.meetup.com/bostonphp/" target="_blank"><b>Boston PHP Meetup</b></a> members, as well as, other PHP Meetup groups across the United States. In January we will announce new opportunities to learn these and other foundational web development skills in our virtual self-study groups. Join us.
+  To learn more about these and other in-demand technologies, visit <b><a href="https://webapprentices.org/about-web-apprentices/" target="_blank">Web Apprentices</a></b>, a technology skills development platform offered as a service to <a href="https://www.meetup.com/bostonphp/" target="_blank"><b>Boston PHP Meetup</b></a> members and four other other PHP Meetup groups across the United States. In January we will announce new opportunities to learn these and other foundational web development skills in our virtual self-study groups. Join us.
 </p>
 
 <br />
