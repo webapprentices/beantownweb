@@ -88,8 +88,8 @@
 <p style="font-family: arial; font-size: medium; text-align: left;">
   Of the seven remaining book recommendations, two were recognized on four lists:</p>
 
-<ul style="text-align: left;">
-  <li style="font-family: arial; font-size: medium;">
+<ul style="font-family: arial; font-size: medium; text-align: left;">
+  <li>
     <a href="https://www.goodreads.com/book/show/42774083-leadership-is-language" target="_blank"><b>BLAH-BLAH-BLAH</b>
     </a>
   </li>
@@ -185,7 +185,21 @@
   </a>
 </div>
 
+<br />
+
+<div class="separator" style="clear: both; text-align: left;">
+
+  <!--ROW #4, BOOK #1-->
+  <a href="https://www.goodreads.com/book/show/50772888-no-filter" style="margin-left: 1em; margin-right: 1em;" target="_blank">
+    <img alt="generic book" border="0" data-original-height="825" data-original-width="550" height="200" src="https://blogger.googleusercontent.com/img/a/AVvXsEg2ckxiybb0zNiaDxLjtai7l9HPHWlTeJMrcc_4OwIP7Dm2eVHHgOk3RQfX7X7Jys8JG91hrjs48UJaDLDgIT3lLI28r4yb7L3jUESbCjwSSGWhGRmjXW8_rbnV6_4sHMvVl6OSUusMMESqdSjGbDtgJw9g0tcWZDv36QENnlgvdmo0JVnaLA=w133-h200" width="133" />
+  </a>
+</div>
+
 <!--END SECOND BOOKSHELF-->
+
+
+
+
 
 <br />
 
