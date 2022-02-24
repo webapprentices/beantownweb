@@ -57,47 +57,54 @@
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b>
-    </a>&nbsp;| 9,591 (job postings) <span style="color: green;"><b>UP 11%</b></span> (from December)
+    </a> | 9,591 (job postings) <span style="color: green;"><b>UP 11%</b></span> (from December)
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b>
-    </a>&nbsp;<b>***</b> | 9,115&nbsp;<span style="color: green;"><b>UP 8%</b></span>
+    </a> <b>***</b> | 9,115 <span style="color: green;"><b>UP 8%</b></span>
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b>
-    </a>&nbsp;| 7,095&nbsp;<span style="color: green;"><b>UP 2%</b></span>
+    </a> | 7,095 <span style="color: green;"><b>UP 2%</b></span>
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b>
-    </a>&nbsp;| 7,352&nbsp;<span style="color: green;"><b>UP 13%</b></span>
+    </a> | 7,352 <span style="color: green;"><b>UP 13%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b>
-    </a>&nbsp;| 6,228&nbsp;<span style="color: green;"><b>UP 8%</b></span>
+    </a> | 6,228 <span style="color: green;"><b>UP 8%</b></span>
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b>
-    </a>&nbsp;| 5,125&nbsp;<span style="color: green;"><b>UP 10%</b></span>
+    </a> | 5,125 <span style="color: green;"><b>UP 10%</b></span>
   </li>
   
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 5,108&nbsp;<span style="color: green;"><b>UP 15%</b></span></li>
-
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b></a>&nbsp;| 3,780&nbsp;<span style="color: green;"><b>UP 8%</b></span></li>
-
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 3,373&nbsp;<span style="color: green;"><b>UP 8%</b></span>
+    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b>
+    </a> | 5,108 <span style="color: green;"><b>UP 15%</b></span>
   </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><span style="color: green;"><b><br /></b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 1,709 <span style="color: green;"><b>UP 2%</b></span>
+    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b>
+    </a>&nbsp;| 3,780 <span style="color: green;"><b>UP 8%</b></span>
   </li>
+
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b>
+    </a>| 3,373 <span style="color: green;"><b>UP 8%</b></span>
+  </li>
+
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=docker&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Docker</b>
+    </a> | 2,742 <span style="color: green;"><b>UP 7%</b></span>
+  </li>
+  
 </ol>
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
