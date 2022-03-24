@@ -1,4 +1,4 @@
-<p>&nbsp;</p>
+<br />
 
 <div class="separator" style="clear: both; text-align: center;">
   <a href="https://blogger.googleusercontent.com/img/a/AVvXsEilGOETc6gp-Wi133XiHbgKz2IDBCA6r92o8vmuC2-uIMq3SBkN6Q98uB7rcoE-Hy2YweIo4O9-9eg-CK4ryd4uBjrxmocnzASeBC8X9LiJ7ygLqZGholqFTNTfcAcpl3YFDe2FfmvBx4VG1PydS-Qnmggj6mydTJY001iiAwjNlXw5fkz22w=s640" style="margin-left: 1em; margin-right: 1em;">
@@ -6,63 +6,78 @@
   </a>
 </div>
 
-<div class="separator" style="clear: both; text-align: center;"><br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+  <br />
+</div>
 
 <div class="separator" style="clear: both; text-align: center;">
   Photo by <a href="https://unsplash.com/@montylov?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">MontyLov</a> on <a href="https://unsplash.com/collections/4374014/march-madness?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash</a>
 </div>
 
 <br />
-<br />
 
 <h2 style="font-family: arial; font-size: large;">
   The Sweet 16 Technologies
 </h2>
 
-<p>
-  <span style="font-family: arial;">Three of the top four seeds in this year's tournament advanced to the Sweet 16 and one was eliminated:</span></p>
+<p style="font-family: arial; font-size: medium;">
+  Three of the top four seeds in this year's tournament advanced to the Sweet 16 and one was eliminated:
+</p>
 
-<p></p>
-
-<ol>
-  <li><span style="font-family: arial;"><b>Python</b> (Gonzaga) | <b><span style="color: #6aa84f;">advanced</span></b></span>
-  </li>
-  
-  <li><span style="font-family: arial;"><b>agile</b> (Arizona) | <span style="color: #6aa84f;"><b>advanced</b></span></span></li>
-  <li><span style="font-family: arial;"><b>SQL</b> (Kansas) | <b><span style="color: #6aa84f;">advanced</span></b></span></li>
-  <li><span style="font-family: arial;"><b>Java</b> (Baylor) | <b><span style="color: red;">eliminated</span></b></span><b style="color: red; font-family: arial;">&nbsp;</b>
-  </li>
+<ol style="font-family: arial; font-size: medium;">
+  <li><b>Python</b> (Gonzaga) | <span style="color: #6aa84f;"><b>advanced</b></span></li>
+  <li><b>agile</b> (Arizona) | <span style="color: #6aa84f;"><b>advanced</b></span></li>
+  <li><b>SQL</b> (Kansas) | <span style="color: #6aa84f;"><b>advanced</b></span></li>
+  <li><b>AWS</b> (Baylor) | <span style="color: red;"><b>eliminated</b></span></li>
 </ol>
 
-<h2 style="font-family: arial; font-size: large;">
-  <span style="font-size: medium; font-weight: 400;">The Cinderalla technology in this year's tournament is the following:</span>
-</h2>
+<p style="font-family: arial; font-size: medium;">The Cinderalla technology in this year's tournament is the following:
+</p>
 
-<div>
-  <ol start="15">
-    <li><span style="font-family: arial;"><b>Vue</b>&nbsp;(St. Peter's)</span>
-    </li>
-  </ol>
-  <div><span style="font-family: arial;">The updated bracket leading into the Sweet 16 competition.</span></div><div><span style="font-family: arial;"><br /></span></div><div><a href="https://www.hiringlab.org/2021/08/18/job-postings-through-august-13/" style="margin-left: 1em; margin-right: 1em; text-align: center;" target="_blank"><img alt="Job Postings on Indeed" border="0" data-original-height="582" data-original-width="1024" height="182" src="https://1.bp.blogspot.com/-iRQFVoN-5aI/YR6E6560QQI/AAAAAAAABgI/54CNZX17locwJp23yB9-svlw83zgZYcPgCLcBGAsYHQ/w320-h182/indeed-job-postings-2021-august.png" width="320" /></a><span style="font-family: arial;">&nbsp;</span></div><div><span style="font-family: arial;"><br /></span></div><div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjubBM0xoBUpXbWAhsUFqHNHbdVFoZqVtyIyRVrflQtiEDW6ADtvDEUK063PDbhH7lLlavMb9wNDij-sXxTtCq0ZQVwQg68mfmCVlQPOwRLVAAUtO4gx2eLJKhUUJ0u8vF7mN0nhb3wHpLl294bZYPBCLLNbHw6jceuu9Lo2rWXsy7jrmmc3A/s1939/march-tech-madness-round-of-16.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="March Tech Madness | Boston 2022" border="0" data-original-height="1422" data-original-width="1939" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjubBM0xoBUpXbWAhsUFqHNHbdVFoZqVtyIyRVrflQtiEDW6ADtvDEUK063PDbhH7lLlavMb9wNDij-sXxTtCq0ZQVwQg68mfmCVlQPOwRLVAAUtO4gx2eLJKhUUJ0u8vF7mN0nhb3wHpLl294bZYPBCLLNbHw6jceuu9Lo2rWXsy7jrmmc3A/w400-h294/march-tech-madness-round-of-16.jpg" width="400" /></a></div><br /><span style="font-family: arial;"><br /></span></div>
-</div>
+<ol start="15" style="font-family: arial; font-size: medium;">
+  <li><span style="font-family: arial;"><b>Vue</b> (St. Peter's)</span></li>
+</ol>
 
-<div><br /></div><h2 style="font-family: arial; font-size: large;">The 68 Technologies</h2>
-
-<p style="font-family: arial; font-size: medium;">The National Collegiate Athletic Assoication (NCAA) announced the 68 teams invited to participate in the 2022 Men's basketball tournament, commonly referred to as March Madness. These&nbsp;<b><a href="https://www.ncaa.com/news/basketball-men/article/2022-03-13/2022-ncaa-mens-tournament-bids-all-68-march-madness-teams" target="_blank">teams are ranked from 1 to 68</a></b>.</p><p style="font-family: arial; font-size: medium;">Beantown Web publishes the <b><a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank">Boston Web Tech Job Market</a></b> which analyses the technology job market in the Boston metro area. This analysis ranks employer demand for technologies based on the number of times each technology appears in job postings on Indeed. These <b><a href="https://beantownweb.blogspot.com/2022/02/boston-web-tech-job-market-february-2022.html" target="_blank">technologies are ranked from 1 to 68</a></b>.</p><p style="font-family: arial; font-size: medium;">Beantown Web has replaced each ranked team with their correspondingly ranked technology and repurposed the March Madness bracket to create the March Tech Madness bracket.</p><p style="font-size: medium;"><span style="font-family: arial;">The top four seeds in this year's tournament are as follows:</span></p><p style="font-size: medium;"></p><ol style="text-align: left;"><li><span style="font-family: arial;">Python (Gonzaga)</span></li><li><span style="font-family: arial;">agile (Arizon)</span></li><li><span style="font-family: arial;">SQL (Kansas)</span></li><li><span style="font-family: arial;">Java (Baylor)</span></li></ol><p></p><p style="font-family: arial; font-size: medium;"><br /></p><p style="font-family: arial; font-size: medium;"><br /></p><p style="font-family: arial; font-size: medium;">&nbsp;</p>
-
-<div class="separator" style="clear: both; text-align: center;">
-  <a href="https://www.hiringlab.org/2021/08/18/job-postings-through-august-13/" style="margin-left: 1em; margin-right: 1em;" target="_blank">
-    <img alt="Job Postings on Indeed" border="0" data-original-height="582" data-original-width="1024" height="182" src="https://1.bp.blogspot.com/-iRQFVoN-5aI/YR6E6560QQI/AAAAAAAABgI/54CNZX17locwJp23yB9-svlw83zgZYcPgCLcBGAsYHQ/w320-h182/indeed-job-postings-2021-august.png" width="320" />
-  </a>
-</div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div>
+<p style="font-family: arial; font-size: medium;">
+  The updated bracket leading into the Sweet 16 competition.
+</p>
 
 <br />
 
-<div class="separator" style="clear: both; text-align: center;">
-  <a href="https://www.meetup.com/bostonphp/events/278877694/" style="margin-left: 1em; margin-right: 1em;" target="_blank">
-    <img alt="LinkedIn Learning" border="0" data-original-height="162" data-original-width="500" height="104" src="https://1.bp.blogspot.com/-6_X0xPqJw44/YSAGISbR5bI/AAAAAAAABgQ/lcuFpaIu03o-AhtM3iiF6aPsdpMnqVD8wCLcBGAsYHQ/w320-h104/linkedin-learning.jpg" width="320" />
-  </a>
+<div>
+  <div class="separator" style="clear: both; text-align: center;">
+    <a href="https://webapprentices.org/wp-content/uploads/2022/03/march-tech-madness-round-of-16.pdf" style="margin-left: 1em; margin-right: 1em;">
+      <img alt="March Tech Madness | Boston 2022" border="0" data-original-height="1422" data-original-width="1939" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjubBM0xoBUpXbWAhsUFqHNHbdVFoZqVtyIyRVrflQtiEDW6ADtvDEUK063PDbhH7lLlavMb9wNDij-sXxTtCq0ZQVwQg68mfmCVlQPOwRLVAAUtO4gx2eLJKhUUJ0u8vF7mN0nhb3wHpLl294bZYPBCLLNbHw6jceuu9Lo2rWXsy7jrmmc3A/w400-h294/march-tech-madness-round-of-16.jpg" width="400" />
+    </a>
+  </div>
 </div>
+
+<br />
+
+<h2 style="font-family: arial; font-size: large;">The 68 Technologies</h2>
+
+<p style="font-family: arial; font-size: medium;">The National Collegiate Athletic Assoication (NCAA) announced the 68 teams invited to participate in the 2022 Men's basketball tournament, commonly referred to as March Madness. These&nbsp;<b><a href="https://www.ncaa.com/news/basketball-men/article/2022-03-13/2022-ncaa-mens-tournament-bids-all-68-march-madness-teams" target="_blank">teams are ranked from 1 to 68</a></b>.
+</p>
+
+<p style="font-family: arial; font-size: medium;">Beantown Web publishes the <b><a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank">Boston Web Tech Job Market</a></b> which analyses the technology job market in the Boston metro area. This analysis ranks employer demand for technologies based on the number of times each technology appears in job postings on Indeed. These <b><a href="https://beantownweb.blogspot.com/2022/02/boston-web-tech-job-market-february-2022.html" target="_blank">technologies are ranked from 1 to 68</a></b>.
+</p>
+
+<p style="font-family: arial; font-size: medium;">Beantown Web has replaced each ranked team with their correspondingly ranked technology and repurposed the March Madness bracket to create the March Tech Madness bracket.
+</p>
+
+<p style="font-size: medium;">
+  <span style="font-family: arial;">The top four seeds in this year's tournament are as follows:</span>
+</p>
+
+<p style="font-size: medium;">
+</p>
+
+<ol style="font-family: arial; font-size: medium;">
+  <li>Python (Gonzaga) | 9,591(job postings</li>
+  <li>agile (Arizona) | 9,115 job postings</li>
+  <li>SQL (Kansas) | 7,095 job postings</li>
+  <li>AWS (Baylor) | 7,352 job postings</li>
+</ol>
 
 <br />
 
