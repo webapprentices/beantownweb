@@ -17,6 +17,24 @@
 <br />
 
 <h2 style="font-family: arial; font-size: large;">
+  The Final Four Technologies
+</h2>
+
+<p style="font-family: arial; font-size: medium;">
+  The four surviving technologies in this year's competition are as follows:
+</p>
+
+<ul style="font-family: arial; font-size: medium; list-style-type:none;">
+  <li><b>#3 <a href="https://www.indeed.com/jobs?q=SQL&l=Boston,+MA&radius=25&sort=date" target="_blank">SQL</a></b> (Kansas) | 6,940 job postings</li>
+  <li><b>#7<a href="https://www.indeed.com/jobs?q=azure&l=Boston,+MA&radius=25&sort=date" target="_blank">Azure</a></b> (Villanova) | 4,131 job postings</li>
+  <li><b>#8 <a href="https://www.indeed.com/jobs?q=SaaS&l=Boston,+MA&radius=25&sort=date" target="_blank">SaaS</a></b> (Duke) | 4,301 job postings</li>
+  <li><b>#30 <a href="https://www.indeed.com/jobs?q=GitHub&l=Boston%2C+MA&radius=25&sort=date" target="_blank">GitHub</a></b> (North Carolina) | 904 job postings</li>
+</ul>
+
+
+<br />
+
+<h2 style="font-family: arial; font-size: large;">
   The Sweet 16 Technologies
 </h2>
 
