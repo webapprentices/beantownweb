@@ -17,6 +17,24 @@
 <br />
 
 <h2 style="font-family: arial; font-size: large;">
+  The Champion Technology
+</h2>
+
+<p style="font-family: arial; font-size: medium;">
+  Congratulation to SQL (Kansas) for defeating GitHub (North Carolina) in the 2022 March Tech Madness Championship game.
+</p>
+
+<br />
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://webapprentices.org/wp-content/uploads/2022/04/march-tech-madness-2022-champion.pdf" style="margin-left: 1em; margin-right: 1em;" target="_blank">
+    <img border="0" data-original-height="420" data-original-width="900" height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-NjSypVWkW3E1243byJQXqbhFMHutn_D5E1FnrN1gmcZoVj0VGGEmuLL5kiIbwzRuTtd534k3ByhRZ3oOebTOBfFSy9pbBbO4p0IqNvryRDUC68yh2vwcWefvh62c92NXkVVDVxlCMIPUKSE5FU5Fc_eLLEg1KmEJHevDgkYJM1KhZeifjg/s320/sql_logo.png" width="320" />
+  </a>
+</div>
+
+<br />
+
+<h2 style="font-family: arial; font-size: large;">
   The Final Four Technologies
 </h2>
 
@@ -24,15 +42,12 @@
   The four surviving technologies in this year's competition are as follows:
 </p>
 
-<ul style="font-family: arial; font-size: medium; list-style-type:none;">
-  <li><b>#3 <a href="https://www.indeed.com/jobs?q=SQL&l=Boston,+MA&radius=25&sort=date" target="_blank">SQL</a></b> (Kansas) | 6,940 job postings</li>
-  <li><b>#7<a href="https://www.indeed.com/jobs?q=azure&l=Boston,+MA&radius=25&sort=date" target="_blank">Azure</a></b> (Villanova) | 4,131 job postings</li>
-  <li><b>#8 <a href="https://www.indeed.com/jobs?q=SaaS&l=Boston,+MA&radius=25&sort=date" target="_blank">SaaS</a></b> (Duke) | 4,301 job postings</li>
-  <li><b>#30 <a href="https://www.indeed.com/jobs?q=GitHub&l=Boston%2C+MA&radius=25&sort=date" target="_blank">GitHub</a></b> (North Carolina) | 904 job postings</li>
+<ul style="font-family: arial; font-size: medium; list-style-type: none;">
+  <li><b>#3 <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank">SQL</a></b> (Kansas) | 6,940 job postings</li>
+  <li><b>#7&nbsp;<a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank">Azure</a></b> (Villanova) | 4,131 job postings</li>
+  <li><b>#8 <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank">SaaS</a></b> (Duke) | 4,301 job postings</li>
+  <li><b>#30 <a href="https://www.indeed.com/jobs?q=GitHub&amp;l=Boston%2C+MA&amp;radius=25&amp;sort=date" target="_blank">GitHub</a></b> (North Carolina) | 904 job postings</li>
 </ul>
-
-
-<br />
 
 <h2 style="font-family: arial; font-size: large;">
   The Sweet 16 Technologies
@@ -101,4 +116,9 @@
 <hr />
 
 <p style="font-family: arial; font-size: medium;">
-  View all recent <a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank"><b>Boston Web Tech Job Market</b></a> blog postings.<br /><br /></p>
+  View all recent <a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank"><b>Boston Web Tech Job Market</b></a> blog postings.
+</p>
+
+<br />
+<br />
+
