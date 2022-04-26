@@ -82,20 +82,17 @@
     <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 3,504 <span style="color: green;"><b>UP 4%</b></span>
   </li>
 
-  
-  
-  
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 2,059 <span style="color: green;"><b>UP 5%</b></span>
+    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 3,470 <span style="color: red;"><b>DOWN 32%</b></span>
   </li>
-
+  
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 1,709 <span style="color: green;"><b>UP 2%</b></span>
+    <a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b></a>&nbsp; | 2,654 <span style="color: red;"><b>DOWN 2%</b></span>
   </li>
 </ol>
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
-  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" and "scrum" are not technologies, they are methodologies used in technology development. These two keywords appear in many web development job descriptions. Knowledge of and experience with these methodologies are common practice.
+  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" is not a technology, it is a methodology used in technology development. This keyword appears in many web development job descriptions. Knowledge of and experience with agile is considered common practice.
   </span>
 </blockquote>
 
