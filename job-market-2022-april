@@ -74,18 +74,17 @@
     <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b></a>&nbsp;| 4,223 <span style="color: red;"><b>DOWN 18%</b></span>
   </li>
 
-  
-  
-  
-
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b></a>&nbsp;| 2,775 <span style="color: green;"><b>UP 4%</b></span>
+    <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b></a>&nbsp;| 4,196 <span style="color: green;"><b>UP 11%</b></span>
+  </li>
+  
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 3,504 <span style="color: green;"><b>UP 4%</b></span>
   </li>
 
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 2,359 <span style="color: green;"><b>UP 63%</b></span>
-  </li>
-
+  
+  
+  
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 2,059 <span style="color: green;"><b>UP 5%</b></span>
   </li>
