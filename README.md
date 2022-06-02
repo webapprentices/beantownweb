@@ -1,4 +1,3 @@
-# beantownweb
 <div id="header" align="center">
   <h1>Beantown Web</h1>
 </div>
