@@ -101,7 +101,7 @@
 <br />
 
 <div class="separator" style="clear: both; text-align: center;">
-  <a href="https://www.meetup.com/bostonphp/events/286224946/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank">
+  <a href="https://www.meetup.com/bostonphp/events/286224946/" style="margin-left: 1em; margin-right: 1em;" target="_blank">
     <img alt="GitHub" border="0" data-original-height="743" data-original-width="1200" height="198" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUagKO_gmBx4D3AaDangw4KusGPcXrv492idv2rFGMPdTeJdEhks75-6o-YorLozfBiFb5o71c0VO58BUHBxzYKZ7B9-veaRREqk40C9myjoGb8ZOeZUxQxsCFD2A1GAloehsPQkK7h6IzOd-0OJOUwumeYxCmHIJljtNIf822ghAu0T_Zw/s320/github-logo.png" width="320" />
   </a>
 </div>
@@ -116,8 +116,6 @@
 
 <p style="font-family: arial; font-size: medium;">
   View all recent <a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank"><b>Boston Web Tech Job Market</b></a> blog postings.</p>
-
-<p style="font-family: arial; font-size: medium;"><br /></p>
 
 <br />
 
