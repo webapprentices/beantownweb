@@ -4,8 +4,6 @@
   <img alt="Now Hiring" border="0" data-original-height="1426" data-original-width="1920" height="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDlzfzVFA7g73aClhCGA497erlHdEEdSCs8SNquN4rpIS9_7tJKs3x1EeTthD15zWDXenpcKveJEuzzj_OBPFMA3AEV4kHL8pIp6AbRmVjRegEYNgF-yh_zpOcuecsA8s5UfTswJoJWieNBPOFwkkHb5NzRXtrjDOrZ0AiEYr5AkIi3MLXZg/w400-h297/now-hiring-8.png" width="400" />
 </div>
 
-<div class="separator" style="clear: both; text-align: center;"><br /></div>
-
 <br />
 
 <h2 style="font-family: arial; font-size: large;">
@@ -26,7 +24,7 @@
   The Job Market in Boston
 </h2>
 
-<p style="font-family: arial; font-size: medium;">Invasion, inflation and rising concerns about a potential recession have overtaken the pandemic as anxiety mounts in the American psyche. The U.S. economy continues to create jobs. However, employers are tapping the breaks on job postings. As of mid-June, job postings on <b><a href="https://www.hiringlab.org/2022/06/09/real-time-job-posting-data-us-labor-market/" target="_blank">Indeed.com</a></b>&nbsp;in the Boston metro area were 43% above February 1, 2020, the pre-pandemic baseline.
+<p style="font-family: arial; font-size: medium;">Invasion, inflation and rising concerns about a possible recession have overtaken the pandemic as anxiety mounts in the American psyche. Nonetheless, the U.S. economy continues to create jobs. However, employers are tapping the breaks on job postings. As of mid-June, job postings on <b><a href="https://www.hiringlab.org/2022/06/09/real-time-job-posting-data-us-labor-market/" target="_blank">Indeed.com</a></b>&nbsp;in the Boston metro area were 43% above February 1, 2020, the pre-pandemic baseline.
 </p>
 
 <br />
@@ -40,7 +38,7 @@
 <br />
 
 <p style="font-family: arial; font-size: medium;">
-  The list of <b>Top 20 Web Technologies in Boston</b> has been updated for August. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords. This list reflects the change in the last 60 days.
+  The list of <b>Top 20 Web Technologies in Boston</b> has been updated for June. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords. This list reflects the change in the last 60 days.
 </p>
 
 <h3 style="font-family: arial; font-size: large;">
@@ -48,33 +46,26 @@
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  Here are <b>The Top 10</b> of the 20 most in-demand web technologies [<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from mid-June, 2021] ranked by number of job postings on Indeed.
+  Here are <b>The Top 10</b> of the 20 most in-demand web technologies [<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from mid-April, 2022] ranked by number of job postings on Indeed.
 </p>
 
-<h3 style="font-family: arial; font-size: medium;">
-  August 2021
-</h3>
+<h3 style="font-family: arial; font-size: medium;">June 2022</h3>
 
 <ol style="font-family: arial; font-size: medium;">
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 5,411 (job postings) <span style="color: green;"><b>UP 9%</b></span> (from June)
-  </li>
+    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 7,642 (job postings) <span style="color: red;"><b>DOWN 5%</b></span> (from April)</li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 5,169 <span style="color: green;"><b>UP 9%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 6,828&nbsp;<span style="color: red;"><b>DOWN 10%</b></span>
+  </li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 5,982&nbsp;<span style="color: green;"><b>UP 6%</b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 4,164 <span style="color: green;"><b>UP 11%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 5,605&nbsp;<span style="color: red;"><b>DOWN 9%</b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 3,706 <span style="color: green;"><b>UP 13%</b></span>
-  </li>
-
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 3,604 <span style="color: green;"><b>UP 11%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 4,636&nbsp;<span style="color: red;"><b>DOWN 11%</b></span></li>
+  
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><span style="color: green;"><b><br /></b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
     <a href="https://www.indeed.com/jobs?q=SaaS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SaaS</b></a>&nbsp;| 2,775 <span style="color: green;"><b>UP 4%</b></span>
