@@ -21,11 +21,6 @@
 </p>
 
 
-
-
-<hr />
-
-
 <h2 style="font-family: arial; font-size: large;">
   The Job Market in Boston
 </h2>
@@ -40,12 +35,7 @@
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  Here are <b>The Top 10</b> of the 20 most in-demand web technologies [&nbsp;<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from May, 2021 ] ranked by number of job postings on Indeed.
-</p>
-
-<p style="font-family: arial; font-size: medium;">
-  <span style="font-family: Tinos;">VVVVVVVVVVVVV</span>
-</p>
+  Here are <b>The Top 10</b> of the 20 most in-demand web technologies [&nbsp;<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from May, 2021 ] ranked by number of job postings on Indeed.</p>
 
 <h3 style="font-family: arial; font-size: medium;">May, 2023</h3>
 
@@ -102,7 +92,7 @@
 </p>
 
 <div class="separator" style="clear: both; text-align: center;">
-  <a href="https://mergephp.carrd.co/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+  <a href="https://mergephp.carrd.co/" style="margin-left: 1em; margin-right: 1em;" target="_blank">
     <img border="0" data-original-height="400" data-original-width="400" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJAICJQRuIrnoTvpanXGqaulOMPohGm_MLn7toUBSSNJYQHfO1Uqbt3w0rtCyt5msUbg-IT_pE5fwDiBZj139DWOEjvNSU94BlWNfJuUeItbWfOOWXojp7jJ4lAVGibnx6-iFB5z1rfU9PN5wX6nqHf1u-Si1E03nhdyP7jAySfLEQGB86aw/s320/mergephp-logo.jpg" width="320" />
   </a>
 </div>
