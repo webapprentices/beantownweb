@@ -74,7 +74,7 @@
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b></a>&nbsp;| 724&nbsp;<span style="color: red;"><b>DOWN 19%</b></span></li>
 
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=%22artificial+intelligence%22&l=Boston%2C+MA&sort=date" target="_blank"><b>artificial intelligence</b></a>&nbsp;| 705&nbsp;<span style="color: red;"><b>DOWN 7%</b></span></li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=%22artificial+intelligence%22&amp;l=Boston%2C+MA&amp;sort=date" target="_blank"><b>artificial intelligence</b></a>&nbsp;| 705&nbsp;<span style="color: red;"><b>DOWN 7%</b></span></li>
 </ol>
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
@@ -89,7 +89,7 @@
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  To learn more about these and other in-demand technologies, visit <b><a href="https://webapprentices.org/about-web-apprentices/" target="_blank">Web Apprentices</a></b>, a technology skills development platform offered as a service to <a href="https://www.meetup.com/bostonphp/" target="_blank"><b>Boston PHP Meetup</b></a> members and 10,000+ developers and aspiring developers who are members of <b><a href="https://mergephp.carrd.co/" target="_blank">MergePHP</a></b>.
+  To learn more about these and other in-demand technologies, visit <b><a href="https://webapprentices.org/about-web-apprentices/" target="_blank">Web Apprentices</a></b>, a technology skills development platform offered as a service to <a href="https://www.meetup.com/bostonphp/" target="_blank"><b>Boston PHP Meetup</b></a> members and 10,000+ developers and aspiring developers who are members of <b><a href="https://www.mergephp.com/" target="_blank">MergePHP</a></b>.
 </p>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -100,7 +100,7 @@
 
 <br />
 
-<p style="font-family: arial; font-size: medium;">The <b style="font-family: arial; text-align: left;">Top 20 Web Technologies in Boston</b><span style="font-family: arial; text-align: left;"> are being counted down over the next 20 days on Beantown Web's Twitter page </span><a href="https://twitter.com/webapprentices" style="font-family: arial; text-align: left;" target="_blank"><b>@webapprentices</b></a><span style="font-family: arial; text-align: left;">.</span>
+<p style="font-family: arial; font-size: medium;">The <b style="font-family: arial; text-align: left;">Top 20 Web Technologies in Boston</b><span style="font-family: arial; text-align: left;"> are being counted down over the next 20 days on Beantown Web's X (Twitter) page </span><a href="https://twitter.com/webapprentices" style="font-family: arial; text-align: left;" target="_blank"><b>@webapprentices</b></a><span style="font-family: arial; text-align: left;">.</span>
 </p>
 
 <hr />
