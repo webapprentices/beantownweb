@@ -40,67 +40,64 @@
 <br />
 
 <div class="separator" style="clear: both; text-align: center;">
-  <a href="https://www.hiringlab.org/2023/08/04/july-2023-jobs-report/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+  <a href="https://www.hiringlab.org/2023/08/04/july-2023-jobs-report/" style="margin-left: 1em; margin-right: 1em;">
     <img border="0" data-original-height="873" data-original-width="1600" height="219" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS-16RjexMA9jN9-jzxJQzCu1KlzDBLGcmBk8OVTwCK3D6C-B8iW9fHnBIhj8f27rPw8zxabbjk-EJi8OFvPD7r9l6ZbdJdsvAk_rJ-clDNeb0pdRSqzMg8DPFW0WAH3cxaj2Ee4NJKsvVrw6ZHjKm26GpV56_m3BrWLSCgiDS0ZteIHczYleM/w400-h219/payrolls-month-over-month-Jul-2023.png" width="400" />
   </a>
 </div>
 
 <br />
 
-<p style="font-family: arial; font-size: medium;"><b>&gt;&gt;&gt; EDIT &gt;&gt;&gt; </b>The list of <b>Top 20 Web Technologies in Boston</b> has been updated for May. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords. <b>This list reflects the change over the last two years.</b> Employers appear to be much more cautious about hiring going into a recession than they were as we entered a pandemic.</p>
+<p style="font-family: arial; font-size: medium;">The list of <b>Top 20 Web Technologies in Boston</b> has been updated for August. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords. <b>This list reflects the change over the last three months.</b> Employers in the Boston metro area appear cautious about hiring as interest rates appear to be peaking along with a possible recession on the horizon.</p>
+
+<br />
 
 <h3 style="font-family: arial; font-size: large;">
   The Top 20 Web Technologies in Boston
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  Here are <b>The Top 10</b> of the 20 most in-demand web technologies [&nbsp;<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from May, 2021 ] ranked by number of job postings on Indeed.</p>
+  Here are <b>The Top 10</b> of the 20 most in-demand web technologies [&nbsp;<span style="color: green;"><b>UP</b></span> or <span style="color: red;"><b>DOWN</b></span> from May, 2023 ] ranked by number of job postings on Indeed. <b>"Artificial intelligence"</b> enters the Top 10 for the first time.</p>
 
-<h3 style="font-family: arial; font-size: medium;">May, 2023</h3>
+<h3 style="font-family: arial; font-size: medium;">August, 2023</h3>
 
 <ol style="font-family: arial; font-size: medium;">
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 3,217 (job postings) <span style="color: red;"><b>DOWN 30%</b></span> (from May, 2021)
+    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 2,650 (job postings) <span style="color: red;"><b>DOWN 18%</b></span> (from May, 2023)
   </li>
   
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 2,531&nbsp;<span style="color: red;"><b>DOWN 43%</b></span>
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 2,067&nbsp;<span style="color: red;"><b>DOWN 18%</b></span>
   </li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 2,343&nbsp;<span style="color: red;"><b>DOWN 33%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 1,869&nbsp;<span style="color: red;"><b>DOWN 20%</b></span></li>
   
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 1,546&nbsp;<span style="color: red;"><b>DOWN 48%</b></span>
-  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 1,454&nbsp;<span style="color: red;"><b>DOWN 6%</b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 1,423&nbsp;<span style="color: red;"><b>DOWN 54%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 1,093&nbsp;<span style="color: red;"><b>DOWN 23%</b></span></li>
   
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 1,302&nbsp;<span style="color: red;"><b>DOWN 28%</b></span></li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 981&nbsp;<span style="color: red;"><b>DOWN 25%</b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b></a>&nbsp;| 1,271&nbsp;<span style="color: red;"><b>DOWN 44%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b></a>&nbsp;| 957&nbsp;<span style="color: red;"><b>DOWN 25%</b></span></li>
 
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 1,151&nbsp;<span style="color: red;"><b>DOWN 17%</b></span>
-  </li>
+    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 855&nbsp;<span style="color: red;"><b>DOWN 26%</b></span></li>
   
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b></a>&nbsp;| 890 <span style="color: red;"><b>DOWN 33%</b></span>
-  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b></a>&nbsp;| 724&nbsp;<span style="color: red;"><b>DOWN 19%</b></span></li>
 
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 764&nbsp;<span style="color: red;"><b>DOWN 51%</b></span></li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>artificial intelligence</b></a>&nbsp;| 705&nbsp;<span style="color: red;"><b>DOWN 7%</b></span></li>
 </ol>
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
-  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" and "scrum" are not technologies, they are methodologies used in technology development. These two keywords appear in many web development job descriptions. Knowledge of and experience with these methodologies are common practice.
+  <span style="font-family: arial; font-size: medium;"><b>*** Note:</b>&nbsp;While "agile" is not a technology, it is a methodology used in technology development. This keyword appears in many web development job descriptions. Knowledge of and experience with "agile" is desired in many technology-oriented workplaces.
   </span>
 </blockquote>
 
-<br />
+<div><br /></div>
+
+<div><b style="font-family: arial;">&gt;&gt;&gt; EDIT &gt;&gt;&gt;&nbsp;</b></div>
 
 <h3 style="font-family: arial; font-size: large;">
   Web Apprentices
