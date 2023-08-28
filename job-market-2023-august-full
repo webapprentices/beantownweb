@@ -1,0 +1,85 @@
+
+<hr>
+<h2><a href="https://beantownweb.blogspot.com/2023/08/boston-web-tech-job-market-august-2023.html" target="_blank">Boston Web Tech Job Market | August 2023</a></h2>
+<table id="content-table3" class="table-responsive-full sort-table">
+	<thead>
+		<tr>
+			<th class="title">Demand Rank
+				<div class="sort-table-arrows">
+					<a href="javascript:sort(true, 'title', 'content-table3');"><button class="button" title="Αύξουσα ταξινόμηση"><i class="fa fa-chevron-down"></i></button></a>
+					<a href="javascript:sort(false, 'title', 'content-table3');"><button class="button" title="Φθίνουσα ταξινόμηση"><i class="fa fa-chevron-up"></i></button></a>
+				</div>
+			</th>
+			<th class="composer">Keyword
+				<div class="sort-table-arrows">
+					<a href="javascript:sort(true, 'composer', 'content-table3');"><button class="button" title="Αύξουσα ταξινόμηση"><i class="fa fa-chevron-down"></i></button></a>
+					<a href="javascript:sort(false, 'composer', 'content-table3');"><button class="button" title="Φθίνουσα ταξινόμηση"><i class="fa fa-chevron-up"></i></button></a>
+				</div>
+			</th>
+			<th class="lyrics">Indeed Jobs
+				<div class="sort-table-arrows">
+					<a href="javascript:sort(true, 'lyrics', 'content-table3');"><button class="button" title="Αύξουσα ταξινόμηση"><i class="fa fa-chevron-down"></i></button></a>
+					<a href="javascript:sort(false, 'lyrics', 'content-table3');"><button class="button" title="Φθίνουσα ταξινόμηση"><i class="fa fa-chevron-up"></i></button></a>
+				</div>
+			</th>
+			<th class="set">Three-Month Change
+				<div class="sort-table-arrows">
+					<a href="javascript:sort(true, 'set', 'content-table3');"><button class="button" title="Αύξουσα ταξινόμηση"><i class="fa fa-chevron-down"></i></button></a>
+					<a href="javascript:sort(false, 'set', 'content-table3');"><button class="button" title="Φθίνουσα ταξινόμηση"><i class="fa fa-chevron-up"></i></button></a>
+				</div>
+			</th>
+			<th class="arranger">Arranger / Editing</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-label="Title" class="title" class="title">1</td>
+			<td data-label="Composer" class="composer">Python</td>
+			<td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=Python&l=Boston,+MA&radius=25&sort=date" target="_blank">2,659</a></td>
+      <td data-label="Set" class="set" style="color:red">-18%</td>
+			<td data-label="Arranger">Sarandakos, S. &amp; Legakis, M. / Legakis, M. (Ed.)</td>
+		</tr>
+		<tr>
+			<td data-label="Title" class="title">2</td>
+			<td data-label="Composer" class="composer">agile</td>
+			<td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=agile&l=Boston,+MA&radius=25&sort=date" target="_blank">2,531</a></td>
+			<td data-label="Set" class="set"  style="color:red">-18%</td>
+			<td data-label="Arranger">Hare, N. &amp; Legakis, M., / Legakis, M. (Ed.)</td>
+		</tr>
+		<tr>
+			<td data-label="Title" class="title">3</td>
+			<td data-label="Composer" class="composer">SQL</td>
+			<td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=SQL&l=Boston,+MA&radius=25&sort=date" target="_blank">1,869</a></td>
+			<td data-label="Set" class="set" style="color:red">-20%</td>
+			<td data-label="Arranger">Legakis, M.</td>
+		</tr>
+		<tr>
+			<td data-label="Title" class="title">4</td>
+			<td data-label="Composer" class="composer">AWS</td>
+      <td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=AWS&l=Boston,+MA&radius=25&sort=date" target="_blank">1,454</a></td>
+      <td data-label="Set" class="set" style="color:red">-6%</td>
+			<td data-label="Arranger">Legakis, M.</td>
+		</tr>
+		<tr>
+			<td data-label="Title" class="title">5</td>
+			<td data-label="Composer" class="composer">Java</td>
+      <td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=Java&l=Boston,+MA&radius=25&sort=date" target="_blank">1,093</a></td>
+			<td data-label="Set" class="set" style="color:red">-23%</td>
+			<td data-label="Arranger">Legakis, M.</td>
+    </tr>  
+		<tr>
+			<td data-label="Title" class="title">6</td>
+			<td data-label="Composer" class="composer">Azure</td>
+      <td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=azure&l=Boston,+MA&radius=25&sort=date" target="_blank">981</a></td>
+			<td data-label="Set" class="set" style="color:red">-25%</td>
+			<td data-label="Arranger">Legakis, M.</td>
+		</tr>
+		<tr>
+			<td data-label="Title" class="title">7</td>
+			<td data-label="Composer" class="composer">JavaScript</td>
+      <td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=JavaScript&l=Boston,+MA&radius=25&sort=date" target="_blank">957</a></td>
+			<td data-label="Set" class="set" style="color:red">-25%</td>
+			<td data-label="Arranger">Legakis, M.</td>
+		</tr>
+	</tbody>
+</table>
