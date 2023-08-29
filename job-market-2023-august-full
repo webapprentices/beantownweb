@@ -77,9 +77,6 @@
       <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=API&l=Boston,+MA&radius=25&sort=date" target="_blank">724</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-19%</td>
 		</tr>
-    
-    
-    
     <tr>
 			<td data-label="Rank" class="title">10</td>
 			<td data-label="Keyword" class="composer">Artificial Intelligence</td>
@@ -89,7 +86,7 @@
     <tr>
 			<td data-label="Rank" class="title">##</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=JavaScript&l=Boston,+MA&radius=25&sort=date" target="_blank">###</a></td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
 		</tr>
 
