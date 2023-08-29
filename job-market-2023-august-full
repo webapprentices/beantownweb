@@ -39,7 +39,7 @@
 		</tr>
 		<tr>
 			<td data-label="Title" class="title">2</td>
-			<td data-label="Composer" class="composer">agile</td>
+			<td data-label="Composer" class="composer">Agile</td>
 			<td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=agile&l=Boston,+MA&radius=25&sort=date" target="_blank">2,531</a></td>
 			<td data-label="Set" class="set" style="color:red">-18%</td>
 		</tr>
@@ -73,5 +73,33 @@
       <td data-label="Lyrics" class="lyrics"><a href="https://www.indeed.com/jobs?q=JavaScript&l=Boston,+MA&radius=25&sort=date" target="_blank">957</a></td>
 			<td data-label="Set" class="set" style="color:red">-25%</td>
 		</tr>
+    <tr>
+			<td data-label="Rank" class="title">8</td>
+			<td data-label="Keyword" class="composer">C#</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=C%23&l=Boston,+MA&radius=25&sort=date" target="_blank">855</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-26%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">9</td>
+			<td data-label="Keyword" class="composer">API</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=API&l=Boston,+MA&radius=25&sort=date" target="_blank">724</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-19%</td>
+		</tr>
+    
+    
+    
+    <tr>
+			<td data-label="Rank" class="title">10</td>
+			<td data-label="Keyword" class="composer">Artificial Intelligence</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22artificial+intelligence%22&l=Boston%2C+MA&sort=date" target="_blank">705</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-7%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">##</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=JavaScript&l=Boston,+MA&radius=25&sort=date" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+
 	</tbody>
 </table>
