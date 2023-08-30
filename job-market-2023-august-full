@@ -45,7 +45,7 @@
 			<td data-label="Rank" class="title">4</td>
 			<td data-label="Keyword" class="composer">AWS</td>
       <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=AWS&l=Boston,+MA&radius=25&sort=date" target="_blank">1,454</a></td>
-      <td data-label="Three-Month Change" class="set" style="color:red">-6%</td>
+      <td data-label="Three-Month Change" class="set" style="color:red">-06%</td>
 		</tr>
 		<tr>
 			<td data-label="Rank" class="title">5</td>
@@ -81,14 +81,75 @@
 			<td data-label="Rank" class="title">10</td>
 			<td data-label="Keyword" class="composer">Artificial Intelligence</td>
       <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22artificial+intelligence%22&l=Boston%2C+MA&sort=date" target="_blank">705</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-7%</td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-07%</td>
 		</tr>
     <tr>
-			<td data-label="Rank" class="title">##</td>
+			<td data-label="Rank" class="title">11</td>
+			<td data-label="Keyword" class="composer">Scrum</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=scrum&l=Boston,+MA&radius=25&sort=date" target="_blank">606</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-21%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">12</td>
+			<td data-label="Keyword" class="composer">Git</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Git&l=Boston,+MA&radius=25&sort=date" target="_blank">592</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-20%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">13</td>
+			<td data-label="Keyword" class="composer">Data Visualization</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22data%20visualization%22&l=Boston%2C%20MA&sort=date" target="_blank">567</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-17%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">14</td>
+			<td data-label="Keyword" class="composer">Jira</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Jira&l=Boston,+MA&radius=25&sort=date" target="_blank">527</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-22%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">15</td>
+			<td data-label="Keyword" class="composer">Kubernetes</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Kubernetes&l=Boston,+MA&radius=25&sort=date" target="_blank">454</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-34%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">16</td>
+			<td data-label="Keyword" class="composer">Docker</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=docker&l=Boston,+MA&radius=25&sort=date" target="_blank">452</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-29%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">17</td>
+			<td data-label="Keyword" class="composer">React</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=react&l=Boston%2C+MA&sort=date" target="_blank">432</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-37%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">18</td>
+			<td data-label="Keyword" class="composer">SQL Server</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22SQL+Server%22&l=Boston%2C+MA&radius=25&sort=date" target="_blank">390</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-19%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">19</td>
+			<td data-label="Keyword" class="composer">Power BI</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22Power+BI%22&l=Boston%2C+MA&sort=date" target="_blank">378</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-09%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">20</td>
+			<td data-label="Keyword" class="composer">IoT</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=IoT&l=Boston,+MA&radius=25&sort=date" target="_blank">374</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-17%</td>
+		</tr>
+    
+    
+    <tr>
+			<td data-label="Rank" class="title">XX</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
       <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
 		</tr>
-
 	</tbody>
 </table>
