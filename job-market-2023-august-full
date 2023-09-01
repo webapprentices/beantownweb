@@ -248,7 +248,7 @@
     <tr>
 			<td data-label="Rank" class="title">38</td>
 			<td data-label="Keyword" class="composer">Kanban</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Kanban&l=Boston,%20MA&radius=25&sort=date" target="_blank">197</a></td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Kanban&l=Boston,%20MA&radius=25&sort=date" target="_blank">187</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-21%</td>
 		</tr>
     <tr>
@@ -263,37 +263,37 @@
       <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=multimedia&l=Boston%2C+MA&radius=25&sort=date" target="_blank">174</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-10%</td>
 		</tr>
-    
     <tr>
 			<td data-label="Rank" class="title">41</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">TensorFlow</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=TensorFlow&l=Boston%2C+MA&radius=25&sort=date" target="_blank">160</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:green">+23%</td>
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">42</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">Salesforce</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=salesforce+%2Bdeveloper&l=Boston%2C+MA&radius=25&sort=date" target="_blank">154</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-19%</td>
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">43</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">InDesign</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=InDesign&l=Boston,+MA&radius=25&sort=date" target="_blank">136</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:green">+05%</td>
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">44</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
-		</tr>
+			<td data-label="Keyword" class="composer">MongoDB</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=MongoDB&l=Boston%2C+MA&radius=25&sort=date" target="_blank">127</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-09%</td>
+		</tr
     <tr>
 			<td data-label="Rank" class="title">45</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">Canva</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22canva%22&l=Boston%2C%20MA&sort=date" target="_blank">121</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:green">+32%</td>
 		</tr>
+    
     <tr>
 			<td data-label="Rank" class="title">46</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
