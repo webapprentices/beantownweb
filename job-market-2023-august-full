@@ -383,12 +383,73 @@
       <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=jQuery&l=Boston,+MA&radius=25&sort=date" target="_blank">83</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-30%</td>
 		</tr>
+    <tr>
+			<td data-label="Rank" class="title">61</td>
+			<td data-label="Keyword" class="composer">SOAP</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=SOAP+%2Bdeveloper&l=Boston%2C+MA&radius=25&sort=date" target="_blank">83</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-19%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">62</td>
+			<td data-label="Keyword" class="composer">Scala</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=scala&l=Boston,+MA&radius=25&sort=date" target="_blank">82</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-38%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">63</td>
+			<td data-label="Keyword" class="composer">Selenium</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Selenium&l=Boston%2C+MA&radius=25&sort=date" target="_blank">79</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-29%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">64</td>
+			<td data-label="Keyword" class="composer">Blockchain</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=blockchain&l=Boston%2C+MA&radius=25&sort=date" target="_blank">79</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-19%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">65</td>
+			<td data-label="Keyword" class="composer">Django</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https//www.indeed.com/jobs?q=Django&l=Boston%2C+MA&radius=25&sort=date" target="_blank">72</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:green">+13%</td>
+		</tr>
     
+    <tr>
+			<td data-label="Rank" class="title">66</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">67</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">68</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">69</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">70</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
     <tr>
 			<td data-label="Rank" class="title">XX</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
       <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
 		</tr>
+    
 	</tbody>
 </table>
