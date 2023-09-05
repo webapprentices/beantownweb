@@ -571,28 +571,29 @@
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">92</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">Ruby on Rails</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Ruby+on+Rails&l=Boston%2C+MA&radius=25&sort=date" target="_blank">27</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-34%</td>
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">93</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">Hootsuite</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=hootsuite&l=Boston%2C%20MA&sort=date" target="_blank">26</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-30%</td>
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">94</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">Nginx</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Nginx&l=Boston%2C+MA&radius=25&sort=date" target="_blank">24</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-25%</td>
 		</tr>
     <tr>
 			<td data-label="Rank" class="title">95</td>
-			<td data-label="Keyword" class="composer">KEYWORD</td>
-      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
-			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+			<td data-label="Keyword" class="composer">webpack</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Webpack&l=Boston%2C+MA&radius=25&sort=date" target="_blank">24</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-14%</td>
 		</tr>
+    
     <tr>
 			<td data-label="Rank" class="title">96</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
