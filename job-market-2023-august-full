@@ -563,19 +563,65 @@
       <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=Ajax%20%2Bdeveloper&l=Boston%2C%20MA&sort=date" target="_blank">31</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-18%</td>
 		</tr>
-    
     <tr>
-			<td data-label="Rank" class="title">XX</td>
+			<td data-label="Rank" class="title">91</td>
+			<td data-label="Keyword" class="composer">Responsive Design</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="https://www.indeed.com/jobs?q=%22responsive+design%22&l=Boston%2C+MA&radius=25&sort=date" target="_blank">29</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:green">+04%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">92</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
       <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
 		</tr>
     <tr>
-			<td data-label="Rank" class="title">XX</td>
+			<td data-label="Rank" class="title">93</td>
 			<td data-label="Keyword" class="composer">KEYWORD</td>
       <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
 			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
 		</tr>
-    
+    <tr>
+			<td data-label="Rank" class="title">94</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">95</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">96</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">97</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">98</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">99</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
+    <tr>
+			<td data-label="Rank" class="title">100</td>
+			<td data-label="Keyword" class="composer">KEYWORD</td>
+      <td data-label="Number of Job Postings" class="lyrics"><a href="#" target="_blank">###</a></td>
+			<td data-label="Three-Month Change" class="set" style="color:red">-XX%</td>
+		</tr>
 	</tbody>
 </table>
