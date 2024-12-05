@@ -34,14 +34,15 @@
   <br />November 21, 2024
 </p>
 
-
 <h2 style="font-family: arial; font-size: large;">
   The Job Market in Boston
 </h2>
 
-<p style="font-family: arial; font-size: medium;">While the <b><a href="https://www.bls.gov/news.release/empsit.nr0.htm" target="_blank">national unemployment rate</a></b> stands at <b>4.1 percent</b>, the <b><a href="https://www.mass.gov/news/massachusetts-unemployment-and-job-estimates-for-october-2024" target="_blank">Massachusetts unemployment rate</a></b>&nbsp;remains lower at <b>3.9 percent</b>. Nationwide, the <b><a href="https://www.dice.com/career-advice/tech-unemployment-held-steady-in-october" target="_blank">tech unemployment rate</a></b>&nbsp;achieves an impressive&nbsp;<b>2.6 percent</b>.</p>
+<p style="font-family: arial; font-size: medium;">While the <b><a href="https://www.bls.gov/news.release/empsit.nr0.htm" target="_blank">national unemployment rate</a></b> stands at <b>4.1 percent</b>, the <b><a href="https://www.mass.gov/news/massachusetts-unemployment-and-job-estimates-for-october-2024" target="_blank">Massachusetts unemployment rate</a></b>&nbsp;remains lower at <b>3.9 percent</b>. Nationwide, the <b><a href="https://www.dice.com/career-advice/tech-unemployment-held-steady-in-october" target="_blank">tech unemployment rate</a></b>&nbsp;achieves an impressive&nbsp;<b>2.6 percent</b>.
+</p>
 
-<p style="font-family: arial; font-size: medium;">Demonstrating technical skills remains one of the best strategies for acquiring and maintaining continuous employment. However, not all technology skills are valued equally.</p>
+<p style="font-family: arial; font-size: medium;">Demonstrating technical skills remains one of the best strategies for acquiring and maintaining continuous employment. However, not all technology skills are valued equally.
+</p>
 
 <br />
 
@@ -54,34 +55,111 @@
 <br />
 <br />
 
-<p style="font-family: arial; font-size: medium;">The list of <b>Top 18 Web Technologies in Boston</b> has been updated for November. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords.</p>
+<p style="font-family: arial; font-size: medium;">The list of <b>Top 18 Web Technologies in Boston</b> has been updated for November. This list is based on keyword searches in job postings at <a href="https://www.indeed.com/lead/indeed-named-top-source-of-hire-north-america" target="_blank"><b>Indeed.com</b></a>. The most in-demand keywords are listed more frequently than less in-demand keywords.
+</p>
 
 <h3 style="font-family: arial; font-size: large;">
   The Top 18 Web Technologies in Boston
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  Here are <b>The Top 18</b>&nbsp;most in-demand web technologies ranked by number of job postings on Indeed.</p>
+  Here are <b>The Top 18</b>&nbsp;most in-demand web technologies ranked by number of job postings on Indeed.
+</p>
 
-<h3 style="font-family: arial; font-size: medium;">November, 2024</h3>
+<h3 style="font-family: arial; font-size: medium;">November, 2024
+</h3>
 
 <ol style="font-family: arial; font-size: medium;">
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b></a>&nbsp;<b>***</b> | 1,000+ (job postings)</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AI</b></a>&nbsp;| 1,000+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b></a>&nbsp;| 1,000+</li><li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b></a>&nbsp;| 1,000+</li>
-  
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b></a>&nbsp;| 900+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>artificial intelligence</b></a>&nbsp;| 600+</li>
-
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b></a>&nbsp;| 600+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=%22social+media%22+%2Bmarketing&amp;l=Boston%2C+MA&amp;radius=25&amp;sort=date" target="_blank"><b>social media</b></a>&nbsp;| 600+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b></a>&nbsp;| 500+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b></a>&nbsp;| 300+</li>
-  
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b></a>&nbsp;| 300+</li>
-
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b></a>&nbsp;| 300+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=%22data%20visualization%22&amp;l=Boston%2C%20MA&amp;sort=date" target="_blank"><b>data visualization</b></a>&nbsp;| 300+</li>
-  
-  <li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=docker&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Docker</b></a>&nbsp;| 300+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=Git&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Git</b></a>&nbsp;| 300+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=Jira&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Jira</b></a>&nbsp;| 300+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=Kubernetes&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Kubernetes</b></a>&nbsp;| 300+</li>
-
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>agile</b>
+    </a>
+    &nbsp;<b>***</b> | 1,000+ (job postings)
+  </li>
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b></a>&nbsp;<b>***</b> | 300+</li>
+    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AI</b>
+    </a>
+    &nbsp;| 1,000+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=Python&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Python</b>
+    </a>
+    &nbsp;| 1,000+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=SQL&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>SQL</b>
+    </a>
+    &nbsp;| 1,000+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b>
+    </a>
+    &nbsp;| 900+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>artificial intelligence</b>
+    </a>
+    &nbsp;| 600+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b>
+    </a>
+    &nbsp;| 600+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=%22social+media%22+%2Bmarketing&amp;l=Boston%2C+MA&amp;radius=25&amp;sort=date" target="_blank"><b>social media</b>
+    </a>
+    &nbsp;| 600+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b>
+    </a>
+    &nbsp;| 500+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=%22data%20visualization%22&amp;l=Boston%2C%20MA&amp;sort=date" target="_blank"><b>data visualization</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=docker&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Docker</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=Git&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Git</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=Jira&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Jira</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=Kubernetes&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Kubernetes</b>
+    </a>
+    &nbsp;| 300+
+  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;">
+    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b>
+    </a>
+    &nbsp;<b>***</b> | 300+
+  </li>
 </ol>
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
@@ -108,7 +186,10 @@
 <br />
 
 <p style="font-family: arial; font-size: medium;">Additional <b style="font-family: arial; text-align: left;">Top Web Technologies in Boston</b><span style="font-family: arial; text-align: left;"> are being counted down on Beantown Web's Twitter page </span><a href="https://twitter.com/webapprentices" style="font-family: arial; text-align: left;" target="_blank"><b>@webapprentices</b></a><span style="font-family: arial; text-align: left;">.</span>
-</p><p style="font-family: arial; font-size: medium;"><span style="font-family: arial; text-align: left;">View <b><a href="https://babon-pmi.carrd.co/" target="_blank">my project management training</a></b> as recognized by the Project Management Institute (PMI).</span></p>
+</p>
+
+<p style="font-family: arial; font-size: medium;"><span style="font-family: arial; text-align: left;">View <b><a href="https://babon-pmi.carrd.co/" target="_blank">my project management training</a></b> as recognized by the Project Management Institute (PMI).</span>
+</p>
 
 <hr />
 
