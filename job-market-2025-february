@@ -40,15 +40,14 @@
 </p>
 
 <h3 style="font-family: arial; font-size: large;">
-  The Top 18 Web Technologies in Boston
+  The Top 10 Web Technologies in Boston
 </h3>
 
 <p style="font-family: arial; font-size: medium;">
-  Here are <b>The Top 18</b>&nbsp;most in-demand web technologies ranked by number of job postings on Indeed.
+  Here are <b>The Top 10</b>&nbsp;most in-demand web technologies ranked by number of job postings on Indeed.
 </p>
 
-<h3 style="font-family: arial; font-size: medium;">November, 2024
-</h3>
+<h3 style="font-family: arial; font-size: medium;">February, 2025</h3>
 
 <ol style="font-family: arial; font-size: medium;">
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
@@ -57,7 +56,7 @@
     &nbsp;<b>***</b> | 1,000+ (job postings)
   </li>
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=agile&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AI</b>
+    <a href="https://www.indeed.com/jobs?q=AI&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AI</b>
     </a>
     &nbsp;| 1,000+
   </li>
@@ -75,72 +74,13 @@
     <a href="https://www.indeed.com/jobs?q=AWS&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>AWS</b>
     </a>
     &nbsp;| 900+
-  </li>
+  </li><li style="margin: 0px 0px 0.25em; padding: 0px;"><b><a href="https://www.indeed.com/jobs?q=Hadoop&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank">Hadoop</a></b> | 700+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b>&nbsp;</a>&nbsp;| 600+</li><li style="margin: 0px 0px 0.25em; padding: 0px;"><a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b>&nbsp;</a>&nbsp;| 600+</li>
   <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>artificial intelligence</b>
-    </a>
-    &nbsp;| 600+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Java&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Java</b>
-    </a>
-    &nbsp;| 600+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=%22social+media%22+%2Bmarketing&amp;l=Boston%2C+MA&amp;radius=25&amp;sort=date" target="_blank"><b>social media</b>
-    </a>
-    &nbsp;| 600+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=JavaScript&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>JavaScript</b>
+    <a href="https://www.indeed.com/jobs?q=%22artificial+intelligence%22&amp;l=Boston%2C+MA&amp;sort=date" target="_blank"><b>artificial intelligence</b>
     </a>
     &nbsp;| 500+
   </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=API&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>API</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=azure&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Azure</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=C%23&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>C#</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=%22data%20visualization%22&amp;l=Boston%2C%20MA&amp;sort=date" target="_blank"><b>data visualization</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=docker&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Docker</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Git&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Git</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Jira&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Jira</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=Kubernetes&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>Kubernetes</b>
-    </a>
-    &nbsp;| 300+
-  </li>
-  <li style="margin: 0px 0px 0.25em; padding: 0px;">
-    <a href="https://www.indeed.com/jobs?q=scrum&amp;l=Boston,+MA&amp;radius=25&amp;sort=date" target="_blank"><b>scrum</b>
-    </a>
-    &nbsp;<b>***</b> | 300+
-  </li>
+  <li style="margin: 0px 0px 0.25em; padding: 0px;"><b><a href="https://www.indeed.com/jobs?q=Shopify&amp;l=Boston%2C+MA&amp;radius=25&amp;sort=date" target="_blank">Shopify</a></b> | 500+</li>
 </ol>
 
 <blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
@@ -187,11 +127,5 @@
 
 <p style="font-family: arial; font-size: medium;">
   View all recent <a href="https://beantownweb.blogspot.com/search/label/jobs" target="_blank"><b>Boston Web Tech Job Market</b></a> blog postings.
-</p><p style="font-family: arial; font-size: medium;"><br /></p><p style="font-family: arial; font-size: medium;"><br /></p><p style="font-family: arial; font-size: medium;"><br /></p><p style="font-family: arial; font-size: medium;">EXTRA &gt;&gt;&gt;&gt;&gt;<br /></p><p><span style="font-family: arial;"><br /><br /></span></p><p><span style="font-family: arial;"><br /></span></p><p><span style="font-family: arial;"></span></p><h3><span style="font-family: arial;"><a href="https://www.prnewswire.com/news-releases/the-conference-board-employment-trends-index-eti-declined-in-january-302372416.html" target="_blank">The Conference Board Employment Trends Index™ (ETI) Declined in January</a></span></h3><div><span style="font-family: arial;">February 10, 2025</span></div><h3><a href="https://www.roberthalf.com/us/en/insights/research/january-2025-jobs-report-employers-add-143000-jobs" target="_blank"><span style="font-family: arial;">January 2025 Jobs Report: Employers Add 143,000 Jobs</span></a></h3><div><span style="font-family: arial;">February 7, 2025</span></div><div><span style="font-family: arial;"><br /></span></div><div><span style="font-family: arial;"><div><span style="font-size: medium;"><b><a href="https://www.dice.com/career-advice/tech-unemployment-ticked-up-again-in-january" target="_blank">Tech Unemployment Ticked Up Again in January</a></b></span></div><div><br /></div><div>February 14, 2025</div><h3><a href="https://www.linkedin.com/news/story/job-confidence-is-dropping-again-6327924/" target="_blank">Job Confidence is Dropping Again</a></h3><div>February 20, 2025</div><div><br /></div></span></div>
-
-<br />
-
-<div class="separator" style="clear: both; text-align: center;">
-   <img border="0" data-original-height="675" data-original-width="1200" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuKV-JyysBwO7wVhfH1EOlVNOTNktWpP1f9df95RfTMIxqozqbvC_-mxTmNcd8tzVkd_eroUfrez66fSh2bFJ8-7DinMuGiC0O5ulq-H-Rd9Y19pdy5ydk__bG30fWVDcOE8WZA_nS8jQzUfPXh1dWw1w-Y9tnvd5btDyx9hBY18s7IV5rzlL4/w400-h225/hiring-2024-november.jpg" width="400" />
-</div>
+</p><p style="font-family: arial; font-size: medium;"><br /></p>
 
